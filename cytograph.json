@@ -1,0 +1,4157 @@
+{
+    "data": [],
+    "directed": true,
+    "multigraph": true,
+    "elements": {
+        "nodes": [
+            {
+                "data": {
+                    "name": "Human-Computer Interaction II",
+                    "desc": "Intermediate and advanced topics and applications in human-computer interaction, to further one's skills for designing highly interactive human-computer interfaces.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 481 and consent of the Department.",
+                    "antireq": "",
+                    "id": "CPSC581",
+                    "value": "CPSC581"
+                }
+            },
+            {
+                "data": {
+                    "name": "Data Base Management Systems",
+                    "desc": "Conceptual, internal and external data bases. Relational data base systems and SQL. The normal forms, data base design, and the entity-relationship approach.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 319 or 331.",
+                    "antireq": "Credit for Computer Science 471 and Business Technology Management 331 will not be allowed.",
+                    "id": "CPSC471",
+                    "value": "CPSC471"
+                }
+            },
+            {
+                "data": {
+                    "name": "SENG480",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "SENG480",
+                    "value": "SENG480"
+                }
+            },
+            {
+                "data": {
+                    "name": "Introduction to Quantum Computation",
+                    "desc": "Introduction to quantum computing. Quantum algorithms, quantum search, quantum fourier transforms, quantum error correcting codes, quantum cryptography, nonlocality and quantum communication complexity, and quantum computational complexity.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 413; and Mathematics 311 or 313.",
+                    "antireq": "Credit for Computer Science 519 and 619 will not be allowed.",
+                    "id": "CPSC519",
+                    "value": "CPSC519"
+                }
+            },
+            {
+                "data": {
+                    "name": "ENCH407",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "ENCH407",
+                    "value": "ENCH407"
+                }
+            },
+            {
+                "data": {
+                    "name": "CPSC599.77",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC599.77",
+                    "value": "CPSC599.77"
+                }
+            },
+            {
+                "data": {
+                    "name": "Intermediate Information Structures",
+                    "desc": "A continuation of Computer Science 319 or 331. Collision resolution in hash tables, search algorithms, advanced tree structures, strings. Advanced algorithmic tools for the storing and manipulation of information.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 319 or 331.\n         ",
+                    "antireq": "",
+                    "id": "CPSC335",
+                    "value": "CPSC335"
+                }
+            },
+            {
+                "data": {
+                    "name": "Datawarehouse Systems",
+                    "desc": "Design, development and deployment of datawarehouses. Schemas, models, data organization, OLAP, tuning, data mining and architectural models may be discussed.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC675",
+                    "value": "CPSC675"
+                }
+            },
+            {
+                "data": {
+                    "name": "MATH375",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "MATH375",
+                    "value": "MATH375"
+                }
+            },
+            {
+                "data": {
+                    "name": "ENSF591",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "ENSF591",
+                    "value": "ENSF591"
+                }
+            },
+            {
+                "data": {
+                    "name": "Differential Equations I ",
+                    "desc": "Classification of ordinary differential equations, first and second order equations with applications, series solutions about regular points and singular points, special functions, Laplace transform. ",
+                    "units": "3 units",
+                    "prereq": "Mathematics 267 or 277.",
+                    "antireq": "Credit for Mathematics 376 and 375 or Applied Mathematics 307 will not be allowed. ",
+                    "id": "MATH376",
+                    "value": "MATH376"
+                }
+            },
+            {
+                "data": {
+                    "name": "ENEL573",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "ENEL573",
+                    "value": "ENEL573"
+                }
+            },
+            {
+                "data": {
+                    "name": "Research Topics in Computer Science",
+                    "desc": "In-depth course on a focused current research topic in Computer Science. Involves a significant research component and requires substantial background knowledge.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC701",
+                    "value": "CPSC701"
+                }
+            },
+            {
+                "data": {
+                    "name": "Introduction to Probability ",
+                    "desc": "A calculus-based introduction to probability theory and applications. Elements of probabilistic modelling, Basic probability computation techniques, Discrete and continuous random variables and distributions, Functions of random variables, Expectation and variance, Multivariate random variables, Conditional distributions, Covariance, Conditional expectation, Central Limit Theorem, Applications to real-world modelling. ",
+                    "units": "3 units",
+                    "prereq": "Mathematics 267 or 277. ",
+                    "antireq": "Credit for Statistics 321 and either Engineering 319 or Digital Engineering 319 or Mathematics 321 will not be allowed.",
+                    "id": "STAT321",
+                    "value": "STAT321"
+                }
+            },
+            {
+                "data": {
+                    "name": "CPSC601.13",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC601.13",
+                    "value": "CPSC601.13"
+                }
+            },
+            {
+                "data": {
+                    "name": "CPSC429",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC429",
+                    "value": "CPSC429"
+                }
+            },
+            {
+                "data": {
+                    "name": "Introduction to Information Visualization",
+                    "desc": "Principles of information representation, presentation and interaction. Development of mappings from data to visual structures and exploration, navigation, cues, distortion and emphasis techniques.",
+                    "units": "3 units",
+                    "prereq": "3 units from Computer Science 319, 331 or Data Science 311.",
+                    "antireq": "",
+                    "id": "CPSC583",
+                    "value": "CPSC583"
+                }
+            },
+            {
+                "data": {
+                    "name": "BTMA331",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "BTMA331",
+                    "value": "BTMA331"
+                }
+            },
+            {
+                "data": {
+                    "name": "Performance Issues in High Speed Networks",
+                    "desc": "An overview of current research in high speed networks. Topics covered will include the current Internet, the future Internet, wireless networks, optical networks, Asynchronous Transfer Mode (ATM), TCP/IP, network traffic measurement, web server performance, and mobile computing. Emphasis will be placed on network performance issues for next-generation Internet protocols and applications.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC641",
+                    "value": "CPSC641"
+                }
+            },
+            {
+                "data": {
+                    "name": "Information Security Seminar",
+                    "desc": "Topics in information security, such as security management, emerging threats, research frontiers using case studies and best practices. ",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "Credit for Computer Science 696 and 699 will not be allowed.",
+                    "id": "CPSC696",
+                    "value": "CPSC696"
+                }
+            },
+            {
+                "data": {
+                    "name": "Advanced Topics in Human-Computer Interaction",
+                    "desc": "The topics covered will change year-by-year depending on current advances in human computer interaction.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 481.",
+                    "antireq": "",
+                    "id": "CPSC781",
+                    "value": "CPSC781"
+                }
+            },
+            {
+                "data": {
+                    "name": "PMAT331",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "PMAT331",
+                    "value": "PMAT331"
+                }
+            },
+            {
+                "data": {
+                    "name": "CPSC333",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC333",
+                    "value": "CPSC333"
+                }
+            },
+            {
+                "data": {
+                    "name": "Advanced Programming Techniques",
+                    "desc": "Theory and application of advanced programming methods and tools. Recent issues as well as those of an enduring nature will be discussed.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 349 or 449.",
+                    "antireq": "",
+                    "id": "CPSC501",
+                    "value": "CPSC501"
+                }
+            },
+            {
+                "data": {
+                    "name": "Data Structures, Algorithms, and Their Analysis",
+                    "desc": "Fundamental data structures, including arrays, lists, stacks, queues, trees, hash tables, and graphs. Algorithms for searching and sorting. Introduction to the correctness and analysis of algorithms. For computer science majors and those interested in algorithm design and analysis, information security, and other mathematically-intensive areas.",
+                    "units": "3 units",
+                    "prereq": "3 units from Computer Science 251, Mathematics 271 or 273; and 3 units from Computer Science 219, 233, 235, Computer Engineering 335, 339 or Software Engineering for Engineers 337.",
+                    "antireq": "Credit for Computer Science 331 and 319 will not be allowed.\n           ",
+                    "id": "CPSC331",
+                    "value": "CPSC331"
+                }
+            },
+            {
+                "data": {
+                    "name": "Programming Fundamentals for Electrical Engineers",
+                    "desc": "Key features of the C programming language. Pointers, memory models and memory management. Modular design of software; information hiding. Manipulation of text files and binary files. Introduction to recursion.",
+                    "units": "3 units",
+                    "prereq": "Engineering 233 or Digital Engineering 233.",
+                    "antireq": "Credit for Computer Engineering 335 and 339 will not be allowed.",
+                    "id": "ENCM335",
+                    "value": "ENCM335"
+                }
+            },
+            {
+                "data": {
+                    "name": "PMAT315",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "PMAT315",
+                    "value": "PMAT315"
+                }
+            },
+            {
+                "data": {
+                    "name": "Computer Viruses and Malware",
+                    "desc": "Study of computer viruses, worms, Trojan horses, and other forms of malicious software. Countermeasures to malicious software. Legal and ethical issues, and some general computer and network security issues.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 313 and 457 and consent of the Department.",
+                    "antireq": "Credit for Computer Science 527 and 627 will not be allowed.",
+                    "id": "CPSC527",
+                    "value": "CPSC527"
+                }
+            },
+            {
+                "data": {
+                    "name": "Artificial Intelligence",
+                    "desc": "An examination of the objectives, key techniques and achievements of work on artificial intelligence in Computer Science.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 313 or 351; and Philosophy 279 or 377.",
+                    "antireq": "",
+                    "id": "CPSC433",
+                    "value": "CPSC433"
+                }
+            },
+            {
+                "data": {
+                    "name": "Information Structures",
+                    "desc": "File architecture and manipulation techniques for various file types. Physical characteristics of current mass storage devices. Advanced data structures and algorithms for implementing various sequential and hierarchical file structures. File organization and design for various applications, file systems and other storage management techniques including website design.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 355; and 319 or 331.",
+                    "antireq": "",
+                    "id": "CPSC461",
+                    "value": "CPSC461"
+                }
+            },
+            {
+                "data": {
+                    "name": "Modern Wireless Networks",
+                    "desc": "An introduction to the fundamentals and applications of wireless networks.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC643",
+                    "value": "CPSC643"
+                }
+            },
+            {
+                "data": {
+                    "name": "Quantum Computation",
+                    "desc": "Introduction to quantum computing. Quantum algorithms, quantum search, quantum fourier transforms, quantum error correcting codes, quantum cryptography, nonlocality and quantum communication complexity, and quantum computational complexity.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "Credit for Computer Science 619 and 519 will not be allowed.",
+                    "id": "CPSC619",
+                    "value": "CPSC619"
+                }
+            },
+            {
+                "data": {
+                    "name": "Fundamentals of Social Network Analysis and Data Mining ",
+                    "desc": "Introduction to data mining with emphasis on frequent pattern mining, clustering and classification, data collection, network construction, basic graph theory concepts and network analysis metrics, and case studies. ",
+                    "units": "3 units",
+                    "prereq": "Computer Science 471.",
+                    "antireq": "Credit for Computer Science 572 and either 599.77 and 672 will not be allowed.",
+                    "id": "CPSC572",
+                    "value": "CPSC572"
+                }
+            },
+            {
+                "data": {
+                    "name": "CPSC557",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC557",
+                    "value": "CPSC557"
+                }
+            },
+            {
+                "data": {
+                    "name": "Rendering",
+                    "desc": "Physical foundations of illuminations techniques. Colour. Radiometry and photometry. Reflection models. The rendering equation. Ray tracing. Monte Carlo techniques. Sampling and antialiasing. Texturing. Radiosity. Photon tracing. Volume rendering. Image-based rendering. Real-time shading.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 453.",
+                    "antireq": "Credit for Computer Science 591 and 691 will not be allowed.",
+                    "id": "CPSC591",
+                    "value": "CPSC591"
+                }
+            },
+            {
+                "data": {
+                    "name": "Computational Geometry",
+                    "desc": "Geometric searching, hull proximity and intersection data structures and algorithms and their complexity.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC653",
+                    "value": "CPSC653"
+                }
+            },
+            {
+                "data": {
+                    "name": "iProgramming for Creative Minds",
+                    "desc": "Design, develop and market apps. This course has a focus on developing, implementing and evaluating ideas in teams and gaining entrepreneurial skills for software development and marketing. ",
+                    "units": "3 units",
+                    "prereq": "3 units from Software Engineering 300, 301, Data Science 311. ",
+                    "antireq": "",
+                    "id": "CPSC575",
+                    "value": "CPSC575"
+                }
+            },
+            {
+                "data": {
+                    "name": "CPSC599.44",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC599.44",
+                    "value": "CPSC599.44"
+                }
+            },
+            {
+                "data": {
+                    "name": "STAT211",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "STAT211",
+                    "value": "STAT211"
+                }
+            },
+            {
+                "data": {
+                    "name": "University Calculus II",
+                    "desc": "A concluding treatment of single variable calculus and an introduction to calculus in several variables. Single variable calculus: techniques of integration, sequences, series, convergence tests, and Taylor series. Calculus of several variables: partial differentiation, multiple integration, parametric equations, and applications",
+                    "units": "3 units",
+                    "prereq": "3 units from Mathematics 249, 265 or 275.",
+                    "antireq": "Credit for Mathematics 267 and 277 will not be allowed. ",
+                    "id": "MATH267",
+                    "value": "MATH267"
+                }
+            },
+            {
+                "data": {
+                    "name": "CPSC529",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC529",
+                    "value": "CPSC529"
+                }
+            },
+            {
+                "data": {
+                    "name": "Programming with Data ",
+                    "desc": "A hands-on introduction to basic coding skills, including core programming concepts and the fundamentals of reading, writing, and executing code – with a focus on data manipulation. Emphasizes important tools and practices for programming with data, including development environments, source control, and debugging.",
+                    "units": "3 units",
+                    "prereq": "Data Science 201.",
+                    "antireq": "Credit for Data Science 211 and any one of Computer Science 215, 217, 231, 235, Computer Engineering 339, Engineering 233 or Digital Engineering 233 will not be allowed.",
+                    "id": "DATA211",
+                    "value": "DATA211"
+                }
+            },
+            {
+                "data": {
+                    "name": "Systems Modelling and Simulation",
+                    "desc": "An introduction to the modelling and simulation of stochastic systems; programming language issues; model and tool design; input data modelling; simulation experiments; and the interpretation of simulation results.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 457 and 3 units from Mathematics 321, Statistics 205, 211, 213 or 321.",
+                    "antireq": "",
+                    "id": "CPSC531",
+                    "value": "CPSC531"
+                }
+            },
+            {
+                "data": {
+                    "name": "MATH353",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "MATH353",
+                    "value": "MATH353"
+                }
+            },
+            {
+                "data": {
+                    "name": "MATH391",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "MATH391",
+                    "value": "MATH391"
+                }
+            },
+            {
+                "data": {
+                    "name": "MATH493",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "MATH493",
+                    "value": "MATH493"
+                }
+            },
+            {
+                "data": {
+                    "name": "Introduction to Computer Algebra",
+                    "desc": "Fundamental problems, classical and modern algorithms, and algorithm design and analysis techniques of use in computer algebra. Integer and polynomial arithmetic. Additional problems in computer algebra, possibly including problems in computational linear algebra, factorization, and concerning systems of polynomial equations will be considered as time permits.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 413; and Mathematics 211 or 213.",
+                    "antireq": "Credit for Computer Science 518 and Computer Science 667 will not be allowed.",
+                    "id": "CPSC518",
+                    "value": "CPSC518"
+                }
+            },
+            {
+                "data": {
+                    "name": "Computer Animation",
+                    "desc": "Principles of traditional animation, key framing, parametric and track animation, free form deformation, inverse kinematics, dynamics, spring mass systems, particle systems, numerical integration, Lagrangian constraints, space time constraints, collisions, human animation, behavioural animation, metamorphosis, implicit animation techniques, animating liquids, gases and cloth, motion capture.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "Credit for Computer Science 687 and 587 will not be allowed.\n   ",
+                    "id": "CPSC687",
+                    "value": "CPSC687"
+                }
+            },
+            {
+                "data": {
+                    "name": "ENCM339",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "ENCM339",
+                    "value": "ENCM339"
+                }
+            },
+            {
+                "data": {
+                    "name": "Introduction to Cryptography",
+                    "desc": "The basics of cryptography, with emphasis on attaining well-defined and practical notations of security. Symmetric and public key cryptosystems; one-way and trapdoor functions; mechanisms for data integrity; digital signatures; key management; applications to the design of cryptographic systems. In addition to written homework, assessment will involve application programming; additional mathematical theory and proof-oriented exercises will be available for extra credit.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 331 and 3 units from Computer Science 351, Mathematics 271, 273, 315 or Pure Mathematics 315.",
+                    "antireq": "Credit for Computer Science 418 and any of Computer Science 429, 557, Mathematics 318, Pure Mathematics 329 or 418 will not be allowed.",
+                    "id": "CPSC418",
+                    "value": "CPSC418"
+                }
+            },
+            {
+                "data": {
+                    "name": "Calculus for Engineers and Scientists ",
+                    "desc": "An extensive treatment of differential and integral calculus in a single variable, with an emphasis on applications. Differentiation: derivative laws, the mean value theorem, optimization, curve sketching and other applications. Integral calculus: the fundamental theorem of calculus, techniques of integration, improper integrals, and areas of planar regions. Infinite series: power series, Taylor’s theorem and Taylor series. ",
+                    "units": "3 units",
+                    "prereq": "Mathematics 30-1 or Mathematics 2 (offered by Continuing Education); and Mathematics 31 or Mathematics 3 (offered by Continuing Education).",
+                    "antireq": "Credit for Mathematics 275 and either 249 or 265 will not be allowed.  ",
+                    "id": "MATH275",
+                    "value": "MATH275"
+                }
+            },
+            {
+                "data": {
+                    "name": "Multivariable Calculus for Engineers and Scientists ",
+                    "desc": "An introduction to calculus of several real variables: curves and parametrizations, partial differentiation, the chain rule, implicit functions; integration in two and three variables and applications; optimization and Lagrange multipliers. ",
+                    "units": "3 units",
+                    "prereq": "Mathematics 275; and Mathematics 211 or 213.",
+                    "antireq": "Credit for Mathematics 277 and 267 will not be allowed. ",
+                    "id": "MATH277",
+                    "value": "MATH277"
+                }
+            },
+            {
+                "data": {
+                    "name": "MATH321",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "MATH321",
+                    "value": "MATH321"
+                }
+            },
+            {
+                "data": {
+                    "name": "Human-Robot Interaction",
+                    "desc": "Introduction to the design, implementation and evaluation of human-robot interfaces. Topics include the evaluation of human-robot interaction (HRI), theoretical, philosophical and ethical issues, exploration of applications and tasks, prototyping HRI tools, and practical implementation and evaluation methods.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 481.",
+                    "antireq": "",
+                    "id": "CPSC584",
+                    "value": "CPSC584"
+                }
+            },
+            {
+                "data": {
+                    "name": "Distributed Database Systems",
+                    "desc": "Introduction to distributed database systems. Topics covered include: architecture, data design, query processing, transaction management, multidatabases, object-oriented databases and advanced system issues.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC673",
+                    "value": "CPSC673"
+                }
+            },
+            {
+                "data": {
+                    "name": "CPSC215",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC215",
+                    "value": "CPSC215"
+                }
+            },
+            {
+                "data": {
+                    "name": "Introduction to Computer Science for Computer Science Majors I",
+                    "desc": "Introduction to problem solving, the analysis and design of small-scale computational systems, and implementation using a procedural programming language. For computer science majors.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "Credit for Computer Science 231 and any of Computer Science 215, 217, 235, Data Science 211, Computer Engineering 339, Engineering 233, or Digital Engineering 233 will not be allowed.",
+                    "id": "CPSC231",
+                    "value": "CPSC231"
+                }
+            },
+            {
+                "data": {
+                    "name": "Software Engineering Project",
+                    "desc": "A software engineering project conducted under the guidance of a faculty member.",
+                    "units": "6 units",
+                    "prereq": "Consent of the Department.",
+                    "antireq": "",
+                    "id": "CPSC594",
+                    "value": "CPSC594"
+                }
+            },
+            {
+                "data": {
+                    "name": "CPSC455",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC455",
+                    "value": "CPSC455"
+                }
+            },
+            {
+                "data": {
+                    "name": "Compiler Construction",
+                    "desc": "Introduction to compilers, interpreters, and the tools for parsing and translation. Lexical analysis, context free grammars and software tools for their recognition. Attribute grammars and their applications in translation and compiling.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 319 or 331; and Computer Science 355 or Computer Engineering 369.",
+                    "antireq": "",
+                    "id": "CPSC411",
+                    "value": "CPSC411"
+                }
+            },
+            {
+                "data": {
+                    "name": "Advanced Calculus for Energy Engineering",
+                    "desc": "A broad introduction to ordinary differential equations, multivariable calculus and elements of vector calculus. Differential equations: linear ordinary differential equations, and systems of linear ordinary differential equations. Calculus of several variables: partial differentiation, the chain rule, double and triple integrals. Vector Calculus: vector fields, line integrals, and flux integrals.",
+                    "units": "3 units",
+                    "prereq": "Mathematics 209 and admission to the Energy Engineering program.",
+                    "antireq": "",
+                    "id": "MATH331",
+                    "value": "MATH331"
+                }
+            },
+            {
+                "data": {
+                    "name": "Network Systems Security",
+                    "desc": "Attacks on networked systems, tools and techniques for detection and protection against attacks including firewalls and intrusion detection and protection systems, authentication and identification in distributed systems, cryptographic protocols for IP networks, security protocols for emerging networks and technologies, privacy enhancing communication. Legal and ethical issues will be introduced.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 329 and 441.",
+                    "antireq": "Credit for Computer Science 526 and either 529 or 626 will not be allowed.\n             ",
+                    "id": "CPSC526",
+                    "value": "CPSC526"
+                }
+            },
+            {
+                "data": {
+                    "name": "Algorithms for Distributed Computation",
+                    "desc": "Fundamental algorithmic problems in distributed computation; impact of communication, timing, failures and other characteristics on computability and complexity of solutions.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "Credit for Computer Science 661 and 561 will not be allowed.",
+                    "id": "CPSC661",
+                    "value": "CPSC661"
+                }
+            },
+            {
+                "data": {
+                    "name": "Games Programming",
+                    "desc": "Standard techniques for the implementation of computer games. Standard multimedia programming environments and high performance multimedia. Special purpose rendering engines. Interactive control and feedback; modelling.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 453 and consent of the Department.",
+                    "antireq": "",
+                    "id": "CPSC585",
+                    "value": "CPSC585"
+                }
+            },
+            {
+                "data": {
+                    "name": "Special Topics in Computer Science",
+                    "desc": "Exploration of various areas in Computer Science. Topics will vary from year-to-year. It will be offered as required to provide the opportunity for students to engage in additional areas in Computer Science. Before registration, consult the Department of Computer Science for topics offered.",
+                    "units": "3 units",
+                    "prereq": "Consent of the Department.",
+                    "antireq": "",
+                    "id": "CPSC399",
+                    "value": "CPSC399"
+                }
+            },
+            {
+                "data": {
+                    "name": "Introduction to Computer Science for Multidisciplinary Studies II",
+                    "desc": "Continuation of Introduction to Computer Science for Multidisciplinary Studies I. Emphasis on object oriented analysis and design of small-scale computational systems and implementation using an object oriented language. Issues of design, modularization and programming style will be emphasized.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 217 or Data Science 211.",
+                    "antireq": "Credit for Computer Science 219 and any of 233, 235, Electrical Engineering 497 or Computer Engineering 493 will not be allowed.",
+                    "id": "CPSC219",
+                    "value": "CPSC219"
+                }
+            },
+            {
+                "data": {
+                    "name": "Complexity Theory",
+                    "desc": "Deterministic and non-deterministic time and space complexity; complexity classes and hierarchies; NP-complete problems and intractable problems; axiomatic complexity theory.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "Credit for Computer Science 611 and Computer Science 511 will not be allowed.",
+                    "id": "CPSC611",
+                    "value": "CPSC611"
+                }
+            },
+            {
+                "data": {
+                    "name": "Advanced Geometric Modelling",
+                    "desc": "Current research topics including spline modelling, Subdivision Surfaces, multiresolution, wavelets, analysis of the subdivision surfaces and reverse subdivision.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC789",
+                    "value": "CPSC789"
+                }
+            },
+            {
+                "data": {
+                    "name": "STAT327",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "STAT327",
+                    "value": "STAT327"
+                }
+            },
+            {
+                "data": {
+                    "name": "Special Topics in Computer Science",
+                    "desc": "Exploration of various areas in Computer Science. Topics will vary from year-to-year. It will be offered as required to provide the opportunity for students to engage in additional areas in Computer Science. Before registration, consult the Department of Computer Science for topics offered. ",
+                    "units": "3 units",
+                    "prereq": "Consent of the Department.",
+                    "antireq": "",
+                    "id": "CPSC599",
+                    "value": "CPSC599"
+                }
+            },
+            {
+                "data": {
+                    "name": "Agent Communications",
+                    "desc": "An examination of communication paradigms in multi-agent systems. A number of paradigms will be covered including simple protocols, BDI (Believe, Desire, Intension), and social commitments.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "Credit for Computer Science 662 and 568 will not be allowed.\n   ",
+                    "id": "CPSC662",
+                    "value": "CPSC662"
+                }
+            },
+            {
+                "data": {
+                    "name": "Advanced Topics in Multiagent Systems",
+                    "desc": "An in-depth study of a selected subfield of multiagent systems including state-of-the-art research. This is a project-driven course.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 567 or 609.",
+                    "antireq": "",
+                    "id": "CPSC767",
+                    "value": "CPSC767"
+                }
+            },
+            {
+                "data": {
+                    "name": "CPSC321",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC321",
+                    "value": "CPSC321"
+                }
+            },
+            {
+                "data": {
+                    "name": "Principles of Operating Systems",
+                    "desc": "An introduction to operating systems principles. Performance measurement; concurrent programs; the management of information, memory and processor resources.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 319 or 331; and Computer Science 355 or Computer Engineering 369.",
+                    "antireq": "",
+                    "id": "CPSC457",
+                    "value": "CPSC457"
+                }
+            },
+            {
+                "data": {
+                    "name": "Applied and Computational Linear Algebra for Energy Engineers",
+                    "desc": "An introduction to systems of linear equations, vectors in Euclidean space, matrix algebra, linear transformations, eigenvalues and engenvectors. Geometrical applications and computing techniques will be emphasized. Students will complete a project using mathematical software. ",
+                    "units": "3 units",
+                    "prereq": "Admission to the Energy Engineering Program.",
+                    "antireq": "",
+                    "id": "MATH209",
+                    "value": "MATH209"
+                }
+            },
+            {
+                "data": {
+                    "name": "Software Entrepreneurship ",
+                    "desc": "Development of business models, building software prototypes and creation of pitch presentations to create a software-based business.",
+                    "units": "3 units",
+                    "prereq": "Software Engineering 300 or 301.",
+                    "antireq": "",
+                    "id": "CPSC405",
+                    "value": "CPSC405"
+                }
+            },
+            {
+                "data": {
+                    "name": "SENG311",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "SENG311",
+                    "value": "SENG311"
+                }
+            },
+            {
+                "data": {
+                    "name": "MATH283",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "MATH283",
+                    "value": "MATH283"
+                }
+            },
+            {
+                "data": {
+                    "name": "Design and Implementation of Database Systems",
+                    "desc": "Implementation and design of modern database systems including query modification/optimization, recovery, concurrency, integrity, and distribution.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 471.",
+                    "antireq": "Credit for Computer Science 571 and 671 will not be allowed.",
+                    "id": "CPSC571",
+                    "value": "CPSC571"
+                }
+            },
+            {
+                "data": {
+                    "name": "Digital Circuits",
+                    "desc": "Number systems and simple codes. Combinational logic: Boolean algebra, truth tables, minterms, maxterms, Karnaugh maps; gates, buffers, multiplexers and decoders; combinational circuit timing. Sequential circuits: latches and D flip flops; timing considerations; analysis and synthesis techniques; Mealy and Moore machine models; counters and registers. Introduction to memory arrays.",
+                    "units": "3 units",
+                    "prereq": "Admission to Electrical Engineering or Software Engineering; or Computer Science 233 and Mathematics 271.",
+                    "antireq": "Credit for Electrical Engineering 353 and Computer Science 321 will not be allowed.",
+                    "id": "ENEL353",
+                    "value": "ENEL353"
+                }
+            },
+            {
+                "data": {
+                    "name": "Information Theory and Security  ",
+                    "desc": "Information theoretic concepts such as entropy and mutual information and their applications to defining and evaluating information security systems including encryption, authentication, secret sharing and secure message transmission.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 351; or 3 units from Computer Science 219, 233 or 235 and 3 units from Mathematics 271, 273, 315 and 3 units from Statistics 205, 213, 321.",
+                    "antireq": "Credit for Computer Science 530 and 630 will not be allowed.",
+                    "id": "CPSC530",
+                    "value": "CPSC530"
+                }
+            },
+            {
+                "data": {
+                    "name": "Programming Paradigms",
+                    "desc": "Examination of the basic principles of the major programming language paradigms. Focus on declarative paradigms such as functional and logic programming. Data types, control expressions, loops, types of references, lazy evaluation, different interpretation principles, information hiding.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 319 or 331; and Philosophy 279 or 377.",
+                    "antireq": "Credit for Computer Science 449 and 349 will not be allowed.",
+                    "id": "CPSC449",
+                    "value": "CPSC449"
+                }
+            },
+            {
+                "data": {
+                    "name": "Modelling And Visualization of Plants",
+                    "desc": "Modelling, simulation and visualization of plants for computer graphics and biological purposes. Modelling of plants as an example of interdisciplinary research including computer science, biology, mathematics and physics. L-systems as a formal basis for model construction. Modelling languages. Information flow in plants. Symmetry, self-similarity and allometry of plants. Descriptive models of plant architecture. Models integrating plant structure and function. Simulation of plant development. Case studies: competition for space, phyllotaxis, tropisms, and biomechanical considerations. Reaction-diffusion models of morphogensis. Genotype-to-phenotype mapping. Modelling of plant ecosystems. Rendering and visualization of the models. A survey of applications and research directions.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC657",
+                    "value": "CPSC657"
+                }
+            },
+            {
+                "data": {
+                    "name": "Introductory Calculus",
+                    "desc": "An introduction to single variable calculus. Limits, derivatives and integrals of algebraic, exponential, logarithmic and trigonometric functions play a central role. Additional topics include applications of differentiation; the fundamental theorem of calculus, improper integrals and applications of integration.",
+                    "units": "3 units",
+                    "prereq": "Mathematics 30-1 or Mathematics 2 (offered by Continuing Education).",
+                    "antireq": "Not open to students with 50 per cent or higher in Mathematics 31 or a grade of \"C\" or higher in Mathematics 3 offered through University of Calgary Continuing Education, except with special departmental permission. Credit for Mathematics 249 and either 265 or 275 will not be allowed.",
+                    "id": "MATH249",
+                    "value": "MATH249"
+                }
+            },
+            {
+                "data": {
+                    "name": "Introduction to Image Analysis and Computer Vision",
+                    "desc": "Standard methods used in the analysis of digital images. Image acquisition and display: visual perception; digital representation. Sampling and enhancement. Feature extraction and classification methods. Object recognition.",
+                    "units": "3 units",
+                    "prereq": "3 units from Mathematics 311, 313, 331, 353, 376, Applied Mathematics 307, 311, Pure Mathematics 331.",
+                    "antireq": "Credit for Computer Science 535 and 635 will not be allowed.",
+                    "id": "CPSC535",
+                    "value": "CPSC535"
+                }
+            },
+            {
+                "data": {
+                    "name": "CPSC349",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC349",
+                    "value": "CPSC349"
+                }
+            },
+            {
+                "data": {
+                    "name": "Compiler Code Generation and Optimization",
+                    "desc": "Compiler code generation and optimization techniques, including register allocation, instruction selection, dataflow analysis, and code optimization techniques using intermediate representations. Implementation of special language features and tools for automated code generation.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC610",
+                    "value": "CPSC610"
+                }
+            },
+            {
+                "data": {
+                    "name": "Data Structures, Algorithms, and Their Applications",
+                    "desc": "Fundamental data structures, including arrays, lists, stacks, queues, trees, hash tables, and graphs. Algorithms for searching and sorting. Introduction to analysis of algorithms. Applications of these data structures and algorithms. For students wishing to combine studies in computer science with studies in other disciplines.",
+                    "units": "3 units",
+                    "prereq": "3 units from Computer Science 219, 233, 235, Computer Engineering 335, 339 or Software Engineering for Engineers 337.",
+                    "antireq": "Credit for Computer Science 319 and 331 will not be allowed. Computer Science majors are not permitted to register in this course.",
+                    "id": "CPSC319",
+                    "value": "CPSC319"
+                }
+            },
+            {
+                "data": {
+                    "name": "Foundations of Functional Programming",
+                    "desc": "Theoretical foundations of functional programming: the lambda-calculus, beta-reduction, confluence, and reduction strategies. Programming syntax: solving recursive equations with the Y-combinator, let and letrec, types, datatypes, and patterns. Programming in a functional language: recursion patterns, useful combinators, maps, and folds, for datatypes. Example applications: recursive descent parsing, unification, combinatorial algorithms, theorem proving.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 313 or 351; and Computer Science 349 or 449.",
+                    "antireq": "",
+                    "id": "CPSC521",
+                    "value": "CPSC521"
+                }
+            },
+            {
+                "data": {
+                    "name": "Principles of Computer Security",
+                    "desc": "Security policies and protection mechanisms for a computing system, including such topics as design principles of protection systems, authentication and authorization, reference monitors, security architecture of popular platforms, formal modelling of protection systems, discretionary access control, safety analysis, information flow control, integrity, role-based access control. Legal and ethical considerations will be introduced as necessary.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "Credit for Computer Science 625 and 525 will not be allowed.",
+                    "id": "CPSC625",
+                    "value": "CPSC625"
+                }
+            },
+            {
+                "data": {
+                    "name": "Special Topics in Computer Science",
+                    "desc": "New areas in Computer Science. It will be offered only as required. Before registration consult the Department of Computer Science for topics offered.",
+                    "units": "6 units",
+                    "prereq": "Consent of the Department.",
+                    "antireq": "",
+                    "id": "CPSC598",
+                    "value": "CPSC598"
+                }
+            },
+            {
+                "data": {
+                    "name": "ENDG319",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "ENDG319",
+                    "value": "ENDG319"
+                }
+            },
+            {
+                "data": {
+                    "name": "PMAT329",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "PMAT329",
+                    "value": "PMAT329"
+                }
+            },
+            {
+                "data": {
+                    "name": "Introduction to Problem Solving using Application Software",
+                    "desc": "Introduction to computer fundamentals; contemporary topics, such as security and privacy, and the Internet and World Wide Web. Problem solving, analysis and design using application software such as spreadsheets and word processors.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "Not open for registration to Computer Science majors.",
+                    "id": "CPSC203",
+                    "value": "CPSC203"
+                }
+            },
+            {
+                "data": {
+                    "name": "ENEL497",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "ENEL497",
+                    "value": "ENEL497"
+                }
+            },
+            {
+                "data": {
+                    "name": "Agent Communications",
+                    "desc": "An examination of communication paradigms in multi-agent systems. A number of paradigms will be covered including simple protocols, BDI (Believe, Desire, Intension), and social commitments.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 433 and consent of the Department.",
+                    "antireq": "Credit for Computer Science 568 and 662 will not be allowed.",
+                    "id": "CPSC568",
+                    "value": "CPSC568"
+                }
+            },
+            {
+                "data": {
+                    "name": "MATH253",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "MATH253",
+                    "value": "MATH253"
+                }
+            },
+            {
+                "data": {
+                    "name": "Information Storage and Processing in Biological Systems",
+                    "desc": "Examination of complex biological systems; concepts and fundamentals of biological solutions to information storage and processing; modelling and computer simulation of biological systems; information storage in biological molecules; genetic networks; hierarchical organization of biological information processing in signal transduction, development, evolution, and ecology; biological control systems.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC605",
+                    "value": "CPSC605"
+                }
+            },
+            {
+                "data": {
+                    "name": "Introduction to Computer Science for Computer Science Majors II",
+                    "desc": "Continuation of Introduction to Computer Science for Computer Science Majors I. Emphasis on object-oriented analysis and design of small-scale computational systems and implementation using an object oriented language. Issues of design, modularization, and programming style will be emphasized.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 231.",
+                    "antireq": "Credit for Computer Science 233 and any of 219, 235, Electrical Engineering 497 or Computer Engineering 493 will not be allowed.",
+                    "id": "CPSC233",
+                    "value": "CPSC233"
+                }
+            },
+            {
+                "data": {
+                    "name": "Data Processing and Storage",
+                    "desc": "An introduction to fundamental data structures, including lists, stacks, trees, hash tables, and graphs, and their application for data processing, analysis, and storage. Covers the fundamental design and use of relational databases, with an emphasis on SQL.",
+                    "units": "3 units",
+                    "prereq": "Data Science 201; and 3 units from Data Science 211, Computer Science 217, 231, 235, Digital Engineering 233 or Engineering 233. ",
+                    "antireq": "Credit for Data Science 311 and either Computer Science 319 or 331 will not be allowed.",
+                    "id": "DATA311",
+                    "value": "DATA311"
+                }
+            },
+            {
+                "data": {
+                    "name": "Theoretical Foundations of Computer Science I ",
+                    "desc": "Proof techniques. Recursion and iteration. Specification of algorithmic problems, proofs of correctness, and bounds on their computational complexity. Discrete structures such as graphs, trees, strings, functions, and their computer representation. Counting, permutations, discrete probability spaces, random events. Applications in Computer Science.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 219 or 231.",
+                    "antireq": "Students may not register in, or have credit for, Computer Science 251 if they have previous credit for one of Mathematics 271 or 273 or are concurrently enrolled in Mathematics 271 or 273.",
+                    "id": "CPSC251",
+                    "value": "CPSC251"
+                }
+            },
+            {
+                "data": {
+                    "name": "Data Management in Geographical Information Systems",
+                    "desc": "Examination of advanced geometric algorithms for representation, analysis and visualization of Geographical Information Systems. Data structures such as progressive mesh, ROAM, multidimensional Delauney triangulization, quadtree and space partitioning. Algorithmic techniques such as incremental, divide and conquer, sweep-plane, and dimension reduction. Algorithms for surface simplification, culling, quality measurement and reduction.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC695",
+                    "value": "CPSC695"
+                }
+            },
+            {
+                "data": {
+                    "name": "Computing Machinery I",
+                    "desc": "An introduction to computing machinery establishing the connection between programs expressed in a compiled language, an assembly language, and machine code, and how such code is executed. Includes the detailed study of a modern CPU architecture, its assembly language and internal data representation, and the relationship between high-level program constructs and machine operations.",
+                    "units": "3 units",
+                    "prereq": "3 units from Computer Science 219, 233 or 235.",
+                    "antireq": "Credit for Computer Science 355 and 265 or Computer Engineering 369 will not be allowed.",
+                    "id": "CPSC355",
+                    "value": "CPSC355"
+                }
+            },
+            {
+                "data": {
+                    "name": "Computing Machinery II",
+                    "desc": "An introduction to hardware and microprocessor design, including the connection between gate-level digital logic circuits and sequential machines that can execute an algorithm and perform input and output.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 355 and Philosophy 279 or 377.",
+                    "antireq": "Credit for Computer Science 359 and any of 325, 455 or Computer Engineering 415 will not be allowed. ",
+                    "id": "CPSC359",
+                    "value": "CPSC359"
+                }
+            },
+            {
+                "data": {
+                    "name": "ENSF599",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "ENSF599",
+                    "value": "ENSF599"
+                }
+            },
+            {
+                "data": {
+                    "name": "ENGG233",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "ENGG233",
+                    "value": "ENGG233"
+                }
+            },
+            {
+                "data": {
+                    "name": "CPSC301",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC301",
+                    "value": "CPSC301"
+                }
+            },
+            {
+                "data": {
+                    "name": "Introduction to Computer Science for Multidisciplinary Studies I",
+                    "desc": "Introduction to problem solving, analysis and design of small-scale computational systems and implementation using a procedural programming language. For students wishing to combine studies in computer science with studies in other disciplines.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "Credit for Computer Science 217 and any of 215, 231, 235, Data Science 211, Computer Engineering 339, Engineering 233 or Digital Engineering 233 will not be allowed.",
+                    "id": "CPSC217",
+                    "value": "CPSC217"
+                }
+            },
+            {
+                "data": {
+                    "name": "CPSC325",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC325",
+                    "value": "CPSC325"
+                }
+            },
+            {
+                "data": {
+                    "name": "Computer Algebra",
+                    "desc": "Fundamental problems, classical and modern algorithms, and algorithm design and analysis techniques of use in computer algebra. Integer and polynomial arithmetic. Additional problems in computer algebra, possibly including problems in computational linear algebra, factorization, and concerning systems of polynomial equations will be considered as time permits.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "Credit for Computer Science 667 and 518 will not be allowed.\n      ",
+                    "id": "CPSC667",
+                    "value": "CPSC667"
+                }
+            },
+            {
+                "data": {
+                    "name": "Biological Computation",
+                    "desc": "Examination and modelling of biological networks; focus on the latest developments in biological computing and their theoretical backgrounds, such as: DNA computing; genomic algorithms; artificial chemistries; complex adaptive systems, chaos and fractals; immune system computing; gene regulatory networks; swarm intelligence systems.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC607",
+                    "value": "CPSC607"
+                }
+            },
+            {
+                "data": {
+                    "name": "Linear Methods II",
+                    "desc": "An introductory course in the theory of abstract vector spaces: linear independence, spanning sets, basis and dimension; linear transformations and the rank-nullity theorem; the Gram-Schmidt algorithm and orthogonal diagonalization; singular value decomposition and other applications.",
+                    "units": "3 units",
+                    "prereq": "Mathematics 211 or 213.",
+                    "antireq": "Credit for Mathematics 311 and 313 will not be allowed.",
+                    "id": "MATH311",
+                    "value": "MATH311"
+                }
+            },
+            {
+                "data": {
+                    "name": "Research Methodology in Computer Science",
+                    "desc": "An introduction to and survey of research areas and methods in Computer Science. Professional skills in computer science research such as reviewing, critical evaluation, and the preparation of research proposals.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "Credit for Computer Science 699 and 696 will not be allowed.",
+                    "id": "CPSC699",
+                    "value": "CPSC699"
+                }
+            },
+            {
+                "data": {
+                    "name": "Spam and Spyware",
+                    "desc": "Spam and other unsolicited bulk electronic communication, and spyware. Legal and ethical issues. Countermeasures and related security problems.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 313 and 457 and consent of the Department.",
+                    "antireq": "Credit for Computer Science 528 and 628 will not be allowed.",
+                    "id": "CPSC528",
+                    "value": "CPSC528"
+                }
+            },
+            {
+                "data": {
+                    "name": "Programming Fundamentals for Software and Computer",
+                    "desc": "Key features of the C programming language. Pointers, memory models and memory management. Manipulation of text files and binary files. Introduction to recursion. Introduction to a modern object-oriented language. Development of basic program design skills with small projects.",
+                    "units": "3 units",
+                    "prereq": "Engineering 233 or Digital Engineering 233.",
+                    "antireq": "Credit for Software Engineering for Engineers 337 and Computer Engineering 339 will not be allowed.",
+                    "id": "ENSF337",
+                    "value": "ENSF337"
+                }
+            },
+            {
+                "data": {
+                    "name": "Implicit Modelling",
+                    "desc": "A detailed look at modelling using implicit and iso-surface techniques taking an in-depth review of the literature. Algebraic methods will be followed by skeletal models, field function design, modelling techniques, rendering and texture mapping. Polygonisation algorithms, ray tracing implicits, techniques for animation, meta-morphosis, precise contact modelling, deformation and warping. Algorithms and data structures and implementation details will be presented. Students will be expected to make a new contribution in their project and term paper.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC785",
+                    "value": "CPSC785"
+                }
+            },
+            {
+                "data": {
+                    "name": "Thinking with Data ",
+                    "desc": "An introduction to tools and techniques for managing, visualizing, and making sense of data. Includes an introduction to data cleaning, basic statistics, exploratory visualization, sensemaking, and data presentation.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "DATA201",
+                    "value": "DATA201"
+                }
+            },
+            {
+                "data": {
+                    "name": "Introduction to Distributed Algorithms",
+                    "desc": "Basic problems in distributed systems such as symmetry breaking, consensus, resource allocation, and synchronization. The impact of system characteristics, such as models of communication, timing and failure, and of solution requirements, such as correctness and complexity criteria and algorithmic constraints, on the computability and complexity of these problems. Techniques for solving problems under different models will be emphasized.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 413.",
+                    "antireq": "Credit for Computer Science 561 and 661 will not be allowed.",
+                    "id": "CPSC561",
+                    "value": "CPSC561"
+                }
+            },
+            {
+                "data": {
+                    "name": "Image Analysis and Computer Vision",
+                    "desc": "Standard methods used in the analysis of digital images. Image acquisition and display: visual perception; digital representation. Sampling and enhancement. Feature extraction and classification methods. Object recognition.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "Credit for Computer Science 635 and 535 will not be allowed.\n    ",
+                    "id": "CPSC635",
+                    "value": "CPSC635"
+                }
+            },
+            {
+                "data": {
+                    "name": "Special Topics in Computer Science",
+                    "desc": "Exploration of various areas in Computer Science. Topics will vary from year-to-year. It will be offered as required to provide the opportunity for students to engage in additional areas in Computer Science. Before registration, consult the Department of Computer Science for topics offered. ",
+                    "units": "3 units",
+                    "prereq": "Consent of the Department.",
+                    "antireq": "",
+                    "id": "CPSC499",
+                    "value": "CPSC499"
+                }
+            },
+            {
+                "data": {
+                    "name": "Randomized Algorithms",
+                    "desc": "Design and analysis of randomized algorithms; discrete probability theory; randomized data structures; lower bound techniques; randomized complexity classes; advanced algorithmic applications from various areas.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "Credit for Computer Science 622 and 522 will not be allowed.",
+                    "id": "CPSC622",
+                    "value": "CPSC622"
+                }
+            },
+            {
+                "data": {
+                    "name": "University Calculus I ",
+                    "desc": "An introduction to single variable calculus intended for students with credit in high school calculus. Limits, derivatives, and integrals of algebraic, exponential, logarithmic and trigonometric functions play a central role. Additional topics include applications of differentiation; the fundamental theorem of calculus, improper integrals and applications of integration. Differential calculus in several variables will also be introduced.  ",
+                    "units": "3 units",
+                    "prereq": "Mathematics 30-1 or Mathematics 2 (offered by Continuing Education); and Mathematics 31 or Mathematics 3 (offered by Continuing Education).",
+                    "antireq": "Credit for Mathematics 265 and either 249 or 275 will not be allowed. ",
+                    "id": "MATH265",
+                    "value": "MATH265"
+                }
+            },
+            {
+                "data": {
+                    "name": "Introduction to Statistics I",
+                    "desc": "Introduction to probability, including Bayes' law, expectations and distributions. Discrete and continuous random variables, including properties of the normal curve. Collection and visual display of single and multi-dimensional data. Introduction to statistical modeling and estimation. Parametric and simulation-based confidence interval estimation.",
+                    "units": "3 units",
+                    "prereq": "Mathematics 30-1 or Mathematics 2 (offered by Continuing Education).",
+                    "antireq": "Credit for Statistics 213 and either Statistics 205 or 327 will not be allowed. Not available to students who have previous credit for one of Statistics 321, Engineering 319 or Digital Engineering 319 or are concurrently enrolled in Statistics 321 or Engineering 319.",
+                    "id": "STAT213",
+                    "value": "STAT213"
+                }
+            },
+            {
+                "data": {
+                    "name": "Introduction to Software Engineering",
+                    "desc": "Introduction to the development and evolution of software. Covers key conceptual foundations as well as key methods and techniques used in the different phases of the software lifecycle. Emphasis on both technical and soft skills needed for high quality software and software-based products developed in teams.",
+                    "units": "3 units",
+                    "prereq": "3 units from Computer Science 219, 233 or 235.",
+                    "antireq": "Credit for Software Engineering 300 and any of Software Engineering 301, 311, 403, 411, Computer Science 301, 333, 451 or Software Engineering for Engineers 480 will not be allowed.",
+                    "id": "SENG300",
+                    "value": "SENG300"
+                }
+            },
+            {
+                "data": {
+                    "name": "Machine Learning",
+                    "desc": "Presenting various techniques for learning various kinds of knowledge, including rules, parameters, trees and graphs, partitions of sets, sequences and behaviors, and cases. Pointing out the components that can be improved using knowledge about the application area of a system. Looking at various pre-processing and post-processing improvement techniques. ",
+                    "units": "3 units",
+                    "prereq": "Computer Science 433.",
+                    "antireq": "Credit for Computer Science 544 and 599.44 will not be allowed.",
+                    "id": "CPSC544",
+                    "value": "CPSC544"
+                }
+            },
+            {
+                "data": {
+                    "name": "Foundations of Multi-Agent Systems",
+                    "desc": "Modelling of agents and properties of multi-agent systems. Communication issues, including interaction and co-ordination concepts, forming and maintaining organizations, and competitive agent environments. Example systems; the implementation of a multi-agent system will be performed as the assignment.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "Credit for Computer Science 609 and either Computer Science 567 or Software Engineering 697 will not be allowed for programs offered by the Department of Computer Science.",
+                    "id": "CPSC609",
+                    "value": "CPSC609"
+                }
+            },
+            {
+                "data": {
+                    "name": "Fundamentals of Social Network Analysis and Data Mining ",
+                    "desc": "Introduction to data mining with emphasis on frequent pattern mining, clustering and classification, data collection, network construction, basic graph theory concepts and network analysis metrics, and case studies. ",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "Credit for Computer Science 672 and either 572 or 599.77 will not be allowed.\n   ",
+                    "id": "CPSC672",
+                    "value": "CPSC672"
+                }
+            },
+            {
+                "data": {
+                    "name": "Information Visualization: Theory and Practice",
+                    "desc": "The theory and development of interactive visual representations of abstract data for the purpose of amplifying cognition. Topics covered can include representational issues, perceptual issues, visual literacy, spatial abstraction, and interaction issues.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC683",
+                    "value": "CPSC683"
+                }
+            },
+            {
+                "data": {
+                    "name": "CPSC451",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC451",
+                    "value": "CPSC451"
+                }
+            },
+            {
+                "data": {
+                    "name": "Programming with Data",
+                    "desc": "Fundamental programming constructs and data structures. Algorithm development and problem solving. Programming techniques to facilitate data analysis. Obtaining and cleaning data. Data validation. Data manipulation. Data visualization. Introduction to decision making using machine learning. Applications chosen from all engineering disciplines. ",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "Credit for Digital Engineering 233 and any of Computer Science 217, 231, 235, Computer Engineering 339 or Engineering 233 will not be allowed. ",
+                    "id": "ENDG233",
+                    "value": "ENDG233"
+                }
+            },
+            {
+                "data": {
+                    "name": "Theoretical Foundations of Computer Science II ",
+                    "desc": "Probability spaces, random variables, expectation, independence, concentration bounds, conditional probability, repeated trials, error bounds. Turing machines and finite automata. Deterministic, nondeterministic and probabilistic models of computation. Languages, regular languages and regular expressions. Methods for classifying computational problems as decidable or undecidable.",
+                    "units": "3 units",
+                    "prereq": "3 units from Computer Science 219, 233 or 235; and Computer Science 251 or with department consent Statistics 213 and either Mathematics 271 or 273; and 3 units from Mathematics 249, 265 or 275; and Philosophy 279 or 377.  ",
+                    "antireq": "Credit for Computer Science 351 and Computer Science 313 will not be allowed.",
+                    "id": "CPSC351",
+                    "value": "CPSC351"
+                }
+            },
+            {
+                "data": {
+                    "name": "Network Systems Security",
+                    "desc": "Attacks on networked systems, tools and techniques for detection and protection against attacks including firewalls and intrusion detection and protection systems, authentication and identification in distributed systems, cryptographic protocols for IP networks, security protocols for emerging networks and technologies, privacy enhancing communication. Legal and ethical issues will be introduced as necessary.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "Credit for Computer Science 626 and 526 will not be allowed.\n   ",
+                    "id": "CPSC626",
+                    "value": "CPSC626"
+                }
+            },
+            {
+                "data": {
+                    "name": "ENSF480",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "ENSF480",
+                    "value": "ENSF480"
+                }
+            },
+            {
+                "data": {
+                    "name": "ENGG319",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "ENGG319",
+                    "value": "ENGG319"
+                }
+            },
+            {
+                "data": {
+                    "name": "Design and Analysis of Algorithms I",
+                    "desc": "Techniques for the analysis of algorithms, including counting, summation, recurrences, and asymptotic relations; techniques for the design of efficient algorithms, including greedy methods, divide and conquer, and dynamic programming; examples of their application; an introduction to tractable and intractable problems.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 331; and 313 or 351; and Mathematics 211 or 213; and 3 units from Mathematics 249, 265 or 275.",
+                    "antireq": "",
+                    "id": "CPSC413",
+                    "value": "CPSC413"
+                }
+            },
+            {
+                "data": {
+                    "name": "ENCM493",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "ENCM493",
+                    "value": "ENCM493"
+                }
+            },
+            {
+                "data": {
+                    "name": "Explorations in Information Security and Privacy",
+                    "desc": "Surveys topics in information security and privacy, with the purposes of cultivating an appropriate mindset for approaching security and privacy issues and developing basic familiarity with related technical controls.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC602",
+                    "value": "CPSC602"
+                }
+            },
+            {
+                "data": {
+                    "name": "AMAT219",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "AMAT219",
+                    "value": "AMAT219"
+                }
+            },
+            {
+                "data": {
+                    "name": "Modelling for Computer Graphics",
+                    "desc": "Parametric Modelling. B-splines and NURBS. Subdivision schemes. Surface subdivision. Multiresolution. Wavelets. Implicit modelling. Blends. Polygonization. Blobtree. Precise contact modelling. Solid modelling. CSG. Procedural modelling. Special topics, e.g. Differential geometry. Graph-based modelling. Topology.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "Credit for Computer Science 689 and 589 will not be allowed.\n    ",
+                    "id": "CPSC689",
+                    "value": "CPSC689"
+                }
+            },
+            {
+                "data": {
+                    "name": "Computer Networks",
+                    "desc": "Principles and practice in modern telecommunications, computer communications and networks. Layered communication protocols and current physical, data link, network and Internet protocol layers. Circuit switching, packet switching, and an introduction to broadband multimedia networking.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 319 or 331; and Computer Science 355 or Computer Engineering 369.",
+                    "antireq": "Credit for Computer Science 441 and Electrical Engineering 573 will not be allowed.",
+                    "id": "CPSC441",
+                    "value": "CPSC441"
+                }
+            },
+            {
+                "data": {
+                    "name": "Computational Techniques for Graphics and Visualization",
+                    "desc": "Various case studies from the fields of graphics and visualization. Topics in numerical linear algebra, numerical optimization, and discrete differential geometry.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "Credit for Computer Science 615 and 601.13 will not be allowed.\n     ",
+                    "id": "CPSC615",
+                    "value": "CPSC615"
+                }
+            },
+            {
+                "data": {
+                    "name": "Elementary Formal Logic",
+                    "desc": "Sentential and first-order logic, with identity and descriptions, from both deductive and semantic points of view. Completeness, compactness, decidability for sentential logic.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "Credit for Philosophy 377 and 279 will not be allowed.",
+                    "id": "PHIL377",
+                    "value": "PHIL377"
+                }
+            },
+            {
+                "data": {
+                    "name": "Cryptography",
+                    "desc": "An overview of the basic techniques in modern cryptography, with emphasis on fit-for-application primitives and protocols. Topics will include symmetric and public-key cryptosystems; digital signatures; elliptic curve cryptography; key management; attack models and well-defined notions of security.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC669",
+                    "value": "CPSC669"
+                }
+            },
+            {
+                "data": {
+                    "name": "Introduction to Computer Graphics",
+                    "desc": "Introduction to computer graphics. Principles of raster image generation. Example of a graphics API. Graphics primitives. Co-ordinate systems, affine transformations and viewing of graphical objects. Introduction to rendering including shading models and ray tracing. Introduction to modelling including polygon meshes, subdivision, and parametric curves and surfaces.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 319 or 331; and Mathematics 211 or 213; and 3 units from Mathematics 253, 267, 277, 283 or Applied Mathematics 219.",
+                    "antireq": "",
+                    "id": "CPSC453",
+                    "value": "CPSC453"
+                }
+            },
+            {
+                "data": {
+                    "name": "AMAT307",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "AMAT307",
+                    "value": "AMAT307"
+                }
+            },
+            {
+                "data": {
+                    "name": "Research Project",
+                    "desc": "A substantial research project under the guidance of a faculty member. A report must be written and presented on completion of the course. \n502.01. Research Project in Computer Science \n502.02. Research Project in Theoretical Computer Science \n502.03. Research Project in Computer Graphics \n502.04. Research Project in Information Security \n502.05. Research Project in Scientific Computation \n502.06. Research Project in Software Engineering\n502.07. Research Project in Human Computer Interaction\n502.08. Research Project in Networks and Distributed Computing",
+                    "units": "6 units",
+                    "prereq": "Consent of the Department.",
+                    "antireq": "Credit for Computer Science 502 and any of 503, Software Engineering for Engineers 599 or 591 will not be allowed.",
+                    "id": "CPSC502",
+                    "value": "CPSC502"
+                }
+            },
+            {
+                "data": {
+                    "name": "Principles of Computer Security",
+                    "desc": "Security policies and protection mechanisms for a computing system, including such topics as design principles of protection systems, authentication and authorization, reference monitors, security architecture of popular platforms, formal modelling of protection systems, discretionary access control, safety analysis, information flow control, integrity, role-based access control. Legal and ethical considerations will be introduced.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 457; and 3 units from Computer Science 351, Mathematics 271 or 273.",
+                    "antireq": "Credit for Computer Science 525 and either 529 or 625 will not be allowed.",
+                    "id": "CPSC525",
+                    "value": "CPSC525"
+                }
+            },
+            {
+                "data": {
+                    "name": "Systems Administration",
+                    "desc": "Topics and practices in systems administration and management. Required and optional administration duties and responsibilities. Moral and ethical conundrums, and legal responsibilities, in systems operation. Configuration and installation of operating systems and network and systems services.",
+                    "units": "6 units",
+                    "prereq": "Computer Science 441, 457 and consent of the Department.",
+                    "antireq": "",
+                    "id": "CPSC550",
+                    "value": "CPSC550"
+                }
+            },
+            {
+                "data": {
+                    "name": "Emergent Computing",
+                    "desc": "An insight into a new mindset for programming as an emergent and evolutionary process of \"breeding,\" rather than constructing. Programs can evolve to perform specific tasks in a bottom-up fashion rather than being manually coded. Topics will include: decentralized agent-based programming, massive parallelism and interaction, evolution, swarm intelligence.",
+                    "units": "3 units",
+                    "prereq": "3 units from Computer Science 217, 231, Data Science 211; and 6 units offered by the Faculty of Science at the 400 level or above.",
+                    "antireq": "",
+                    "id": "CPSC565",
+                    "value": "CPSC565"
+                }
+            },
+            {
+                "data": {
+                    "name": "Modelling for Computer Graphics",
+                    "desc": "Parametric Modelling. B-splines and NURBS. Subdivision schemes. Surface subdivision. Multiresolution. Wavelets. Implicit modelling. Blends. Polygonization. Blobtree. Precise contact modelling. Solid modelling. CSG. Procedural modelling. Special topics, e.g. Differential geometry. Graph-based modelling. Topology.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 453.",
+                    "antireq": "Credit for Computer Science 589 and 689 will not be allowed.",
+                    "id": "CPSC589",
+                    "value": "CPSC589"
+                }
+            },
+            {
+                "data": {
+                    "name": "Foundations of Access Control",
+                    "desc": "Application of formal methods and mathematical logic to the modelling of access control systems and the design of policy languages. Topics include safety and resiliency analysis, proof of policy compliance, expressiveness of policy languages, policy analysis, as well as a survey of modern paradigms of access control.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC604",
+                    "value": "CPSC604"
+                }
+            },
+            {
+                "data": {
+                    "name": "Logic I",
+                    "desc": "Sentential and first-order logic from both deductive and semantic points of view. Some elementary metatheorems.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "Credit for Philosophy 279 and 377 will not be allowed.",
+                    "id": "PHIL279",
+                    "value": "PHIL279"
+                }
+            },
+            {
+                "data": {
+                    "name": "Techniques for Numerical Computation",
+                    "desc": "Elementary techniques for the numerical solution of mathematical problems on a computer, including methods for solving linear and non-linear equations, numerical integration, and interpolation.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 319 or 331; and Mathematics 211 or 213; and 3 units from Mathematics 249, 265 or 275.",
+                    "antireq": "Credit for Computer Science 491 and any of Mathematics 391, 493 or Engineering 407 or Chemical Engineering 407 will not be allowed.",
+                    "id": "CPSC491",
+                    "value": "CPSC491"
+                }
+            },
+            {
+                "data": {
+                    "name": "CPSC265",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC265",
+                    "value": "CPSC265"
+                }
+            },
+            {
+                "data": {
+                    "name": "Advanced Introduction to Computer Science",
+                    "desc": "An accelerated introduction to problem solving, the analysis and design of small-scale computational systems and implementation using both procedural and object oriented programming languages. Issues of design, modularization, and programming style will be emphasized.",
+                    "units": "3 units",
+                    "prereq": "Consent of the Department.",
+                    "antireq": "Credit for Computer Science 235 and any of 215, 217, 219, 231, 233, Computer Engineering 339, 493 or Data Science 211 will not be allowed.",
+                    "id": "CPSC235",
+                    "value": "CPSC235"
+                }
+            },
+            {
+                "data": {
+                    "name": "Biometric Security",
+                    "desc": "Principles of biometric system design, technology and performance evaluation. Verification, identification and synthesis in biometrics. Traditional and emerging techniques for fingerprint matching, face recognition, iris modelling, signature authentication, and biometric pattern recognition. Multi-modal biometrics and biometric security.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC697",
+                    "value": "CPSC697"
+                }
+            },
+            {
+                "data": {
+                    "name": "Current Trends in Database Technology",
+                    "desc": "Advanced topics chosen from Bioinformatics, Data mining, Mobile Databases, Spatial Databases and Web Databases. There is a large project component.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC771",
+                    "value": "CPSC771"
+                }
+            },
+            {
+                "data": {
+                    "name": "CPSC627",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC627",
+                    "value": "CPSC627"
+                }
+            },
+            {
+                "data": {
+                    "name": "Introduction to Statistical Inquiry ",
+                    "desc": "The systematic progression of statistical principles needed to conduct a statistical investigation culminating in parameter estimation, hypothesis testing, statistical modelling, and design of experiments. ",
+                    "units": "3 units",
+                    "prereq": "Mathematics 30-1 or 30-2 or Mathematics 2 (offered by Continuing Education). ",
+                    "antireq": "Credit for Statistics 205 and any one of Statistics 213, 217, or 327 will not be allowed. Students may not register in, or have credit for, Statistics 205 if they have previous credit for one of Statistics 321, Engineering 319 or Digital Engineering 319 or are concurrently enrolled in Statistics 321, Engineering 319 or Digital Engineering 319.",
+                    "id": "STAT205",
+                    "value": "STAT205"
+                }
+            },
+            {
+                "data": {
+                    "name": "A Survey of Computer Science for Non-Majors",
+                    "desc": "An accessible exploration of different computing topics.  Emphasizing a familiarity with a broad array of subjects within computer science rather than depth.  Topics may include computing hardware, data representation, data compression, computer graphics, sorting algorithms, artificial intelligence techniques, databases, networks and security and privacy.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "Not open for registration to Majors in Computer Science, Bioinformatics, Electrical Engineering, Software Engineering, Computer Engineering, Natural Sciences with a primary concentration in Computer Science or any student with at least 3 units of courses numbered 300 or above and labelled Computer Science, Software Engineering or Software Engineering for Engineers.",
+                    "id": "CPSC304",
+                    "value": "CPSC304"
+                }
+            },
+            {
+                "data": {
+                    "name": "Research Methods in Human-Computer Interaction",
+                    "desc": "Application of the theory and methodology of human-machine studies to real systems; theory and practice.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC681",
+                    "value": "CPSC681"
+                }
+            },
+            {
+                "data": {
+                    "name": "Special Topics in Computer Science",
+                    "desc": "A study of problems of particular interest to graduate students in Computer Science.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC601",
+                    "value": "CPSC601"
+                }
+            },
+            {
+                "data": {
+                    "name": "Explorations in Information Security and Privacy",
+                    "desc": "A broad survey of topics in information security and privacy, with the purpose of cultivating an appropriate mindset for approaching security and privacy issues. Topics will be motivated by recreational puzzles. Legal and ethical considerations will be introduced as necessary.",
+                    "units": "3 units",
+                    "prereq": "Mathematics 30-1, 30-2 or 31.",
+                    "antireq": "",
+                    "id": "CPSC329",
+                    "value": "CPSC329"
+                }
+            },
+            {
+                "data": {
+                    "name": "CPSC628",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC628",
+                    "value": "CPSC628"
+                }
+            },
+            {
+                "data": {
+                    "name": "Linear Algebra II",
+                    "desc": "The theory of linear operators acting on finite dimensional vector spaces: invariant subspaces, diagonalization and triangulation; canonical forms; inner product spaces and orthogonalization; spectral theory; singular value decomposition and other applications.",
+                    "units": "3 units",
+                    "prereq": "Mathematics 213.",
+                    "antireq": "Credit for Mathematics 311 and 313 will not be allowed.",
+                    "id": "MATH313",
+                    "value": "MATH313"
+                }
+            },
+            {
+                "data": {
+                    "name": "Biometric Technologies",
+                    "desc": "Principles of biometric system design, technology and performance evaluation. Verification, identification and synthesis in biometrics. Traditional and emerging techniques for fingerprint matching, face recognition, iris modelling, signature authentication, and biometric pattern recognition. Multi-modal biometrics and information fusion. Privacy and ethics considerations in deployment of biometric systems.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 453. ",
+                    "antireq": "",
+                    "id": "CPSC577",
+                    "value": "CPSC577"
+                }
+            },
+            {
+                "data": {
+                    "name": "Computer Organization",
+                    "desc": "Organization of a simple stored-program computer: CPU, busses and memory. Instruction sets, machine code, and assembly language. Conventions for assembly language generated by compilers. Floating-point number representation. Hardware organization. Address translation and virtual memory. Input/output devices, computer interfacing, interrupt handling and multi-tasking systems.",
+                    "units": "3 units",
+                    "prereq": "Electrical Engineering 353 and Computer Engineering 335 or 339 or Software Engineering for Engineers 337.",
+                    "antireq": "",
+                    "id": "ENCM369",
+                    "value": "ENCM369"
+                }
+            },
+            {
+                "data": {
+                    "name": "STAT217",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "STAT217",
+                    "value": "STAT217"
+                }
+            },
+            {
+                "data": {
+                    "name": "Foundations of Multi-Agent Systems",
+                    "desc": "Modelling of agents and properties of multi-agent systems. Communication issues, including interaction and co-ordination concepts, forming and maintaining organizations, and competitive agent environments. Example systems; the implementation of a multi-agent system will be performed as the assignment.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 457 and 433.",
+                    "antireq": "Credit for Computer Science 567 and 609 or Software Engineering 697 will not be allowed.",
+                    "id": "CPSC567",
+                    "value": "CPSC567"
+                }
+            },
+            {
+                "data": {
+                    "name": "SENG697",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "SENG697",
+                    "value": "SENG697"
+                }
+            },
+            {
+                "data": {
+                    "name": "Information Security Project",
+                    "desc": "An information security project conducted under the guidance of a faculty member. A report must be written and presented on completion of the course.",
+                    "units": "6 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC698",
+                    "value": "CPSC698"
+                }
+            },
+            {
+                "data": {
+                    "name": "Introduction to Computability",
+                    "desc": "An introduction to abstract models of sequential computation, including finite automata, regular expressions, context-free grammars, and Turing machines. Formal languages, including regular, context-free, and recursive languages, methods for classifying languages according to these types, and relationships among these classes.",
+                    "units": "3 units",
+                    "prereq": "Mathematics 271 or 273; and Philosophy 279 or 377; and 3 units from Computer Science 219, 233 or 235.",
+                    "antireq": "Credit for Computer Science 313 and Computer Science 351 will not be allowed.",
+                    "id": "CPSC313",
+                    "value": "CPSC313"
+                }
+            },
+            {
+                "data": {
+                    "name": "Category Theory for Computer Science",
+                    "desc": "Introduction to category theory with applications in computer science. Functors, natural transformations, adjoints and monads, initial and final algebras. Introduction to 2-categories and fibrations.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC617",
+                    "value": "CPSC617"
+                }
+            },
+            {
+                "data": {
+                    "name": "PMAT317",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "PMAT317",
+                    "value": "PMAT317"
+                }
+            },
+            {
+                "data": {
+                    "name": "PMAT418",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "PMAT418",
+                    "value": "PMAT418"
+                }
+            },
+            {
+                "data": {
+                    "name": "Rendering",
+                    "desc": "Physical foundations of illuminations techniques. Colour. Radiometry and photometry. Reflection models. The rendering equation. Ray tracing. Monte Carlo techniques. Sampling and antialiasing. Texturing. Radiosity. Photon tracing. Volume rendering. Image-based rendering. Real-time shading.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "Credit for Computer Science 691 and 591 will not be allowed.",
+                    "id": "CPSC691",
+                    "value": "CPSC691"
+                }
+            },
+            {
+                "data": {
+                    "name": "Information Theory and Security  ",
+                    "desc": "Information theoretic concepts such as entropy and mutual information, and their applications to defining and evaluating information security systems including encryption, authentication, secret sharing and secure message transmission.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "Credit for Computer Science 630 and 530 will not be allowed.",
+                    "id": "CPSC630",
+                    "value": "CPSC630"
+                }
+            },
+            {
+                "data": {
+                    "name": "Introduction to Randomized Algorithms",
+                    "desc": "Techniques for the design and analysis of randomized algorithms; discrete probability theory; randomized data structures; lower bound techniques; randomized complexity classes; advanced algorithmic applications from various areas.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 413.",
+                    "antireq": "Credit for Computer Science 522 and 622 will not be allowed.",
+                    "id": "CPSC522",
+                    "value": "CPSC522"
+                }
+            },
+            {
+                "data": {
+                    "name": "SENG301",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "SENG301",
+                    "value": "SENG301"
+                }
+            },
+            {
+                "data": {
+                    "name": "Numbers and Proofs",
+                    "desc": "A rigorous introduction to proof techniques and abstract mathematical reasoning with an emphasis on number systems: functions, sets and relations; the integers, prime numbers, divisibility and modular arithmetic; induction and recursion; real numbers; Cauchy sequences and completeness; complex numbers.",
+                    "units": "3 units",
+                    "prereq": "A grade of 90 per cent or higher in both Mathematics 30-1 and 31 or consent of the Department.",
+                    "antireq": "",
+                    "id": "MATH273",
+                    "value": "MATH273"
+                }
+            },
+            {
+                "data": {
+                    "name": "Introduction to Distributed Systems",
+                    "desc": "Designing and implementing distributed systems that overcome challenges due to concurrent computation, failure of components in the system and heterogeneity of processors and communication channels. ",
+                    "units": "3 units",
+                    "prereq": "Computer Science 441 and 457.",
+                    "antireq": "",
+                    "id": "CPSC559",
+                    "value": "CPSC559"
+                }
+            },
+            {
+                "data": {
+                    "name": "Linear Methods I",
+                    "desc": "An introduction to systems of linear equations, vectors in Euclidean space and matrix algebra. Additional topics include linear transformations, determinants, complex numbers, eigenvalues, and applications. ",
+                    "units": "3 units",
+                    "prereq": "Mathematics 30-1 or Mathematics 2 (offered by Continuing Education).",
+                    "antireq": "Credit for Mathematics 211 and 213 will not be allowed.",
+                    "id": "MATH211",
+                    "value": "MATH211"
+                }
+            },
+            {
+                "data": {
+                    "name": "SENG403",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "SENG403",
+                    "value": "SENG403"
+                }
+            },
+            {
+                "data": {
+                    "name": "Project",
+                    "desc": "A research project conducted under the guidance of a faculty member. A report must be presented on completion of the course.\n503.01. Project in Computer Science\n503.02. Project in Theoretical Computer Science \n503.03. Project in Computer Graphics \n503.04. Project in Information Security \n503.05. Project in Scientific Computation \n503.06. Project in Software Engineering\n503.07. Project in Human Computer Interaction\n503.08. Project in Networks and Distributed Computing ",
+                    "units": "3 units",
+                    "prereq": "Consent of the Department.",
+                    "antireq": "Credit for Computer Science 503 and either 502 or Software Engineering for Engineers 599 will not be allowed.",
+                    "id": "CPSC503",
+                    "value": "CPSC503"
+                }
+            },
+            {
+                "data": {
+                    "name": "Algebra I ",
+                    "desc": "A broad overview of the elementary theory of groups, rings and fields. Group theory: cyclic, symmetric, alternating, dihedral and classical matrix groups, cosets and Lagrange’s theorem, group homomorphisms, normal subgroups, quotient groups and the isomorphism theorem. Rings and fields: the integers modulo n, polynomial rings, ring homomorphisms, ideals, quotient rings the isomorphism theorem, unique factorization domains, principal ideal domains, Euclidean domains and the construction of finite fields.",
+                    "units": "3 units",
+                    "prereq": "Mathematics 271 or 273.",
+                    "antireq": "Credit for Mathematics 315 and Pure Mathematics 317 will not be allowed.",
+                    "id": "MATH315",
+                    "value": "MATH315"
+                }
+            },
+            {
+                "data": {
+                    "name": "Linear Algebra I",
+                    "desc": "A rigorous introduction to the theory of vector spaces, with an emphasis on proof writing and abstract reasoning. Topics include fields, subspaces, bases and dimension, linear transformations, determinants, eigenvalues and eigenvectors.",
+                    "units": "3 units",
+                    "prereq": "A grade of 90 per cent or higher in both Mathematics 30-1 and Mathematics 31 or consent of the Department. ",
+                    "antireq": "Credit for Mathematics 213 and 211 will not be allowed.",
+                    "id": "MATH213",
+                    "value": "MATH213"
+                }
+            },
+            {
+                "data": {
+                    "name": "Discrete Mathematics",
+                    "desc": "An introduction to proof techniques and abstract mathematical reasoning: sets, relations and functions; mathematical induction; integers, primes, divisibility and modular arithmetic; counting and combinatorics; elements of probability, discrete random variables and Bayes’ theorem.",
+                    "units": "3 units",
+                    "prereq": "Mathematics 211 or 213.",
+                    "antireq": "",
+                    "id": "MATH271",
+                    "value": "MATH271"
+                }
+            },
+            {
+                "data": {
+                    "name": "Computability",
+                    "desc": "Computable functions; decidable and undecidable problems; Church's thesis and recursive functions.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 313 or 351.",
+                    "antireq": "",
+                    "id": "CPSC513",
+                    "value": "CPSC513"
+                }
+            },
+            {
+                "data": {
+                    "name": "Elliptic Curves and Cryptography",
+                    "desc": "An introduction to elliptic curves over the rationals and finite fields. The focus is on both theoretical and computational aspects; subjects covered will include the study of endomorphism rings, Weil pairing, torsion points, group structure, and effective implementation of point addition. Applications to cryptography will be discussed, including elliptic curve-based Diffie-Helman key exchange, El Gamal encryption, and digital signatures, as well as the associated computational problems on which their security is based.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "CPSC629",
+                    "value": "CPSC629"
+                }
+            },
+            {
+                "data": {
+                    "name": "SENG411",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "SENG411",
+                    "value": "SENG411"
+                }
+            },
+            {
+                "data": {
+                    "name": "History of Computation",
+                    "desc": "The history of computation from the earliest times to the modern era.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 355.",
+                    "antireq": "",
+                    "id": "CPSC409",
+                    "value": "CPSC409"
+                }
+            },
+            {
+                "data": {
+                    "name": "Database Management Systems",
+                    "desc": "Foundations of database applications and database systems, plus some advanced topics in data management systems will be introduced.",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "Credit for Computer Science 671 and 571 will not be allowed.\n   ",
+                    "id": "CPSC671",
+                    "value": "CPSC671"
+                }
+            },
+            {
+                "data": {
+                    "name": "Human-Computer Interaction I",
+                    "desc": "Fundamental theory and practice of the design, implementation, and evaluation of human-computer interfaces. Topics include: principles of design; methods for evaluating interfaces with or without user involvement; techniques for prototyping and implementing graphical user interfaces.",
+                    "units": "3 units",
+                    "prereq": "3 units from Software Engineering 300, 301, Software Engineering 480 or Data Science 311.",
+                    "antireq": "",
+                    "id": "CPSC481",
+                    "value": "CPSC481"
+                }
+            },
+            {
+                "data": {
+                    "name": "Introduction to Complexity Theory",
+                    "desc": "Time and space complexity; the classes P, LOGSPACE, PSPACE and their nondeterministic counterparts; containments and separations between complexity classes; intractability and the theory of NP-completeness; complexity theories for probabilistic algorithms and for parallel algorithms.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 413.",
+                    "antireq": "Credit for Computer Science 511 and 611 will not be allowed.",
+                    "id": "CPSC511",
+                    "value": "CPSC511"
+                }
+            },
+            {
+                "data": {
+                    "name": "ENGG407",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "ENGG407",
+                    "value": "ENGG407"
+                }
+            },
+            {
+                "data": {
+                    "name": "AMAT311",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "AMAT311",
+                    "value": "AMAT311"
+                }
+            },
+            {
+                "data": {
+                    "name": "Design and Analysis of Algorithms II",
+                    "desc": "Advanced techniques for the design and analysis of deterministic and probabilistic algorithms; techniques for deriving lower bounds on the complexity of problems.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 413.",
+                    "antireq": "",
+                    "id": "CPSC517",
+                    "value": "CPSC517"
+                }
+            },
+            {
+                "data": {
+                    "name": "ENCM415",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "ENCM415",
+                    "value": "ENCM415"
+                }
+            },
+            {
+                "data": {
+                    "name": "MATH318",
+                    "desc": "",
+                    "units": "3 units",
+                    "prereq": "",
+                    "antireq": "",
+                    "id": "MATH318",
+                    "value": "MATH318"
+                }
+            },
+            {
+                "data": {
+                    "name": "Fundamentals of Computer Animation",
+                    "desc": "Principles of traditional animation, key framing, parametric and track animation, free form deformation, inverse kinematics, dynamics, spring mass systems, particle systems, numerical integration, Lagrangian constraints, space time constraints, collisions, human animation, behavioural animation, metamorphosis, implicit animation techniques, animating liquids, gases and cloth, motion capture.",
+                    "units": "3 units",
+                    "prereq": "Computer Science 453.",
+                    "antireq": "Credit for Computer Science 587 and 687 will not be allowed.",
+                    "id": "CPSC587",
+                    "value": "CPSC587"
+                }
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "source": "CPSC471",
+                    "target": "CPSC572",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC471",
+                    "target": "CPSC571",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "SENG480",
+                    "target": "CPSC481",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH376",
+                    "target": "CPSC535",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "STAT321",
+                    "target": "CPSC351",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "STAT321",
+                    "target": "CPSC530",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "STAT321",
+                    "target": "CPSC457",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "PMAT331",
+                    "target": "CPSC535",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC331",
+                    "target": "CPSC413",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC331",
+                    "target": "CPSC453",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC331",
+                    "target": "CPSC351",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC331",
+                    "target": "CPSC471",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC331",
+                    "target": "PHIL377",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC331",
+                    "target": "CPSC449",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC331",
+                    "target": "CPSC335",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC331",
+                    "target": "CPSC355",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC331",
+                    "target": "CPSC418",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC331",
+                    "target": "CPSC491",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC331",
+                    "target": "ENCM369",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC331",
+                    "target": "CPSC583",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "ENCM335",
+                    "target": "CPSC319",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "ENCM335",
+                    "target": "CPSC331",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "ENCM335",
+                    "target": "ENEL353",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "PMAT315",
+                    "target": "CPSC331",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC433",
+                    "target": "CPSC568",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC433",
+                    "target": "CPSC457",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC433",
+                    "target": "CPSC544",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "STAT211",
+                    "target": "CPSC457",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH267",
+                    "target": "STAT321",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH267",
+                    "target": "CPSC331",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH267",
+                    "target": "CPSC319",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH267",
+                    "target": "MATH376",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "DATA211",
+                    "target": "DATA311",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "DATA211",
+                    "target": "CPSC565",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "DATA211",
+                    "target": "CPSC219",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH353",
+                    "target": "CPSC535",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "ENCM339",
+                    "target": "CPSC331",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "ENCM339",
+                    "target": "CPSC319",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH275",
+                    "target": "PHIL377",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH275",
+                    "target": "CPSC331",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH275",
+                    "target": "CPSC313",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH275",
+                    "target": "MATH277",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH275",
+                    "target": "PHIL279",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH275",
+                    "target": "MATH267",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH275",
+                    "target": "CPSC319",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH277",
+                    "target": "CPSC331",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH277",
+                    "target": "STAT321",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH277",
+                    "target": "CPSC319",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH277",
+                    "target": "MATH376",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH321",
+                    "target": "CPSC457",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC231",
+                    "target": "DATA311",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC231",
+                    "target": "CPSC565",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC231",
+                    "target": "CPSC233",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC231",
+                    "target": "CPSC251",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH331",
+                    "target": "CPSC535",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC219",
+                    "target": "MATH249",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC219",
+                    "target": "CPSC319",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC219",
+                    "target": "CPSC355",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC219",
+                    "target": "CPSC251",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC219",
+                    "target": "MATH315",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC219",
+                    "target": "SENG300",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC219",
+                    "target": "MATH271",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC219",
+                    "target": "MATH273",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC457",
+                    "target": "CPSC528",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC457",
+                    "target": "CPSC550",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC457",
+                    "target": "CPSC531",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC457",
+                    "target": "CPSC525",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC457",
+                    "target": "CPSC559",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC457",
+                    "target": "CPSC527",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC457",
+                    "target": "CPSC567",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH283",
+                    "target": "CPSC331",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH283",
+                    "target": "CPSC319",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "ENEL353",
+                    "target": "ENCM369",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC449",
+                    "target": "CPSC501",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC449",
+                    "target": "CPSC521",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH249",
+                    "target": "MATH267",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH249",
+                    "target": "CPSC313",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH249",
+                    "target": "CPSC331",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH249",
+                    "target": "CPSC319",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH249",
+                    "target": "CPSC251",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC349",
+                    "target": "CPSC501",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC349",
+                    "target": "CPSC521",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC349",
+                    "target": "CPSC351",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC319",
+                    "target": "PHIL377",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC319",
+                    "target": "CPSC335",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC319",
+                    "target": "CPSC449",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC319",
+                    "target": "CPSC491",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC319",
+                    "target": "CPSC583",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC319",
+                    "target": "ENCM369",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC319",
+                    "target": "CPSC471",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC319",
+                    "target": "CPSC355",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC319",
+                    "target": "CPSC453",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH253",
+                    "target": "CPSC319",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH253",
+                    "target": "CPSC331",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC233",
+                    "target": "MATH315",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC233",
+                    "target": "CPSC355",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC233",
+                    "target": "MATH249",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC233",
+                    "target": "MATH273",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC233",
+                    "target": "MATH271",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC233",
+                    "target": "SENG300",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC233",
+                    "target": "CPSC251",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC233",
+                    "target": "CPSC319",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "DATA311",
+                    "target": "CPSC583",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "DATA311",
+                    "target": "CPSC575",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "DATA311",
+                    "target": "CPSC481",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC251",
+                    "target": "PHIL279",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC251",
+                    "target": "ENSF337",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC251",
+                    "target": "CPSC331",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC251",
+                    "target": "MATH265",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC251",
+                    "target": "MATH275",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC251",
+                    "target": "PHIL377",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC251",
+                    "target": "ENCM339",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC251",
+                    "target": "ENCM335",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC355",
+                    "target": "CPSC461",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC355",
+                    "target": "CPSC457",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC355",
+                    "target": "CPSC411",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC355",
+                    "target": "CPSC409",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC355",
+                    "target": "PHIL377",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC355",
+                    "target": "CPSC359",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC355",
+                    "target": "CPSC441",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "ENGG233",
+                    "target": "DATA311",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "ENGG233",
+                    "target": "ENSF337",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "ENGG233",
+                    "target": "ENCM335",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC217",
+                    "target": "CPSC565",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC217",
+                    "target": "DATA311",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC217",
+                    "target": "CPSC219",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH311",
+                    "target": "CPSC413",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH311",
+                    "target": "CPSC535",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "ENSF337",
+                    "target": "CPSC319",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "ENSF337",
+                    "target": "CPSC331",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "ENSF337",
+                    "target": "ENEL353",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "DATA201",
+                    "target": "DATA211",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "DATA201",
+                    "target": "CPSC231",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "DATA201",
+                    "target": "ENGG233",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "DATA201",
+                    "target": "ENDG233",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "DATA201",
+                    "target": "CPSC217",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "DATA201",
+                    "target": "CPSC235",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH265",
+                    "target": "CPSC331",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH265",
+                    "target": "MATH267",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH265",
+                    "target": "CPSC319",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH265",
+                    "target": "CPSC313",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH265",
+                    "target": "PHIL377",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH265",
+                    "target": "PHIL279",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "STAT213",
+                    "target": "CPSC457",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "STAT213",
+                    "target": "CPSC219",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "STAT213",
+                    "target": "CPSC233",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "STAT213",
+                    "target": "MATH271",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "STAT213",
+                    "target": "MATH273",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "STAT213",
+                    "target": "MATH315",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "STAT213",
+                    "target": "CPSC235",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "SENG300",
+                    "target": "CPSC481",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "SENG300",
+                    "target": "CPSC405",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "SENG300",
+                    "target": "CPSC575",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC609",
+                    "target": "CPSC767",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "ENDG233",
+                    "target": "ENCM335",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "ENDG233",
+                    "target": "DATA311",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "ENDG233",
+                    "target": "ENSF337",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC351",
+                    "target": "CPSC530",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC351",
+                    "target": "CPSC449",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC351",
+                    "target": "CPSC433",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC351",
+                    "target": "CPSC418",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC351",
+                    "target": "CPSC457",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC351",
+                    "target": "CPSC413",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC351",
+                    "target": "CPSC521",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC351",
+                    "target": "CPSC513",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC413",
+                    "target": "CPSC519",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC413",
+                    "target": "CPSC518",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC413",
+                    "target": "CPSC522",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC413",
+                    "target": "CPSC517",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC413",
+                    "target": "CPSC511",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC413",
+                    "target": "CPSC561",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "AMAT219",
+                    "target": "CPSC331",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "AMAT219",
+                    "target": "CPSC319",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC441",
+                    "target": "CPSC526",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC441",
+                    "target": "CPSC457",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "PHIL377",
+                    "target": "CPSC449",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "PHIL377",
+                    "target": "CPSC313",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "PHIL377",
+                    "target": "CPSC329",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "PHIL377",
+                    "target": "CPSC359",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "PHIL377",
+                    "target": "CPSC351",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC453",
+                    "target": "CPSC591",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC453",
+                    "target": "CPSC587",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC453",
+                    "target": "CPSC589",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC453",
+                    "target": "CPSC577",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC453",
+                    "target": "CPSC585",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "AMAT307",
+                    "target": "CPSC535",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "PHIL279",
+                    "target": "CPSC351",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "PHIL279",
+                    "target": "CPSC331",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "PHIL279",
+                    "target": "CPSC319",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "PHIL279",
+                    "target": "CPSC355",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "PHIL279",
+                    "target": "CPSC313",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "PHIL279",
+                    "target": "CPSC329",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC235",
+                    "target": "SENG300",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC235",
+                    "target": "MATH249",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC235",
+                    "target": "MATH273",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC235",
+                    "target": "DATA311",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC235",
+                    "target": "MATH315",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC235",
+                    "target": "CPSC355",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC235",
+                    "target": "CPSC319",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC235",
+                    "target": "CPSC251",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC235",
+                    "target": "MATH271",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "STAT205",
+                    "target": "CPSC219",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "STAT205",
+                    "target": "MATH271",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "STAT205",
+                    "target": "CPSC457",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "STAT205",
+                    "target": "CPSC235",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "STAT205",
+                    "target": "CPSC233",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "STAT205",
+                    "target": "MATH315",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "STAT205",
+                    "target": "MATH273",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC329",
+                    "target": "CPSC441",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH313",
+                    "target": "CPSC413",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH313",
+                    "target": "CPSC535",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "ENCM369",
+                    "target": "CPSC457",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "ENCM369",
+                    "target": "CPSC441",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "ENCM369",
+                    "target": "CPSC411",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC567",
+                    "target": "CPSC767",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC313",
+                    "target": "CPSC457",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC313",
+                    "target": "CPSC331",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC313",
+                    "target": "CPSC513",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC313",
+                    "target": "CPSC449",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC313",
+                    "target": "CPSC349",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC313",
+                    "target": "CPSC433",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "SENG301",
+                    "target": "CPSC575",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "SENG301",
+                    "target": "CPSC405",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "SENG301",
+                    "target": "CPSC481",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH273",
+                    "target": "CPSC351",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH273",
+                    "target": "ENCM339",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH273",
+                    "target": "STAT321",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH273",
+                    "target": "PHIL377",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH273",
+                    "target": "ENSF337",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH273",
+                    "target": "MATH315",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH273",
+                    "target": "PHIL279",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH273",
+                    "target": "CPSC457",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH273",
+                    "target": "ENCM335",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH273",
+                    "target": "CPSC331",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH273",
+                    "target": "CPSC530",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH211",
+                    "target": "MATH277",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH211",
+                    "target": "CPSC413",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH211",
+                    "target": "MATH253",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH211",
+                    "target": "MATH311",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH211",
+                    "target": "MATH271",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH211",
+                    "target": "MATH265",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH211",
+                    "target": "AMAT219",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH211",
+                    "target": "MATH267",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH211",
+                    "target": "MATH283",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH211",
+                    "target": "MATH249",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH211",
+                    "target": "MATH275",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH315",
+                    "target": "CPSC331",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH315",
+                    "target": "CPSC351",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH315",
+                    "target": "CPSC530",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH315",
+                    "target": "STAT321",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH213",
+                    "target": "MATH265",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH213",
+                    "target": "CPSC413",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH213",
+                    "target": "AMAT219",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH213",
+                    "target": "MATH253",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH213",
+                    "target": "MATH275",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH213",
+                    "target": "MATH313",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH213",
+                    "target": "MATH277",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH213",
+                    "target": "MATH267",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH213",
+                    "target": "MATH249",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH213",
+                    "target": "MATH271",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH213",
+                    "target": "MATH283",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH213",
+                    "target": "MATH311",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH271",
+                    "target": "CPSC351",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH271",
+                    "target": "ENSF337",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH271",
+                    "target": "STAT321",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH271",
+                    "target": "PHIL279",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH271",
+                    "target": "ENCM339",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH271",
+                    "target": "MATH315",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH271",
+                    "target": "ENCM335",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH271",
+                    "target": "PHIL377",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH271",
+                    "target": "CPSC331",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH271",
+                    "target": "CPSC457",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH271",
+                    "target": "ENEL353",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "MATH271",
+                    "target": "CPSC530",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC481",
+                    "target": "CPSC581",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC481",
+                    "target": "CPSC781",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "CPSC481",
+                    "target": "CPSC584",
+                    "key": 0
+                }
+            },
+            {
+                "data": {
+                    "source": "AMAT311",
+                    "target": "CPSC535",
+                    "key": 0
+                }
+            }
+        ]
+    }
+}

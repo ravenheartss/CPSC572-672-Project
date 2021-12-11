@@ -1,0 +1,4810 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2021-12-05">
+    <creator>NetworkX 2.6.2</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="3" title="networkx_key" type="long" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="name" type="string" />
+      <attribute id="1" title="desc" type="string" />
+      <attribute id="2" title="units" type="string" />
+    </attributes>
+    <nodes>
+      <node id="CPSC351" label="CPSC351">
+        <attvalues>
+          <attvalue for="0" value="Theoretical Foundations of Computer Science II " />
+          <attvalue for="1" value="Probability spaces, random variables, expectation, independence, concentration bounds, conditional probability, repeated trials, error bounds. Turing machines and finite automata. Deterministic, nondeterministic and probabilistic models of computation. Languages, regular languages and regular expressions. Methods for classifying computational problems as decidable or undecidable." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC781" label="CPSC781">
+        <attvalues>
+          <attvalue for="0" value="Advanced Topics in Human-Computer Interaction" />
+          <attvalue for="1" value="The topics covered will change year-by-year depending on current advances in human computer interaction." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC513" label="CPSC513">
+        <attvalues>
+          <attvalue for="0" value="Computability" />
+          <attvalue for="1" value="Computable functions; decidable and undecidable problems; Church's thesis and recursive functions." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="MATH211" label="MATH211">
+        <attvalues>
+          <attvalue for="0" value="Linear Methods I" />
+          <attvalue for="1" value="An introduction to systems of linear equations, vectors in Euclidean space and matrix algebra. Additional topics include linear transformations, determinants, complex numbers, eigenvalues, and applications. " />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="DATA311" label="DATA311">
+        <attvalues>
+          <attvalue for="0" value="Data Processing and Storage" />
+          <attvalue for="1" value="An introduction to fundamental data structures, including lists, stacks, trees, hash tables, and graphs, and their application for data processing, analysis, and storage. Covers the fundamental design and use of relational databases, with an emphasis on SQL." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="STAT211" label="STAT211">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC611" label="CPSC611">
+        <attvalues>
+          <attvalue for="0" value="Complexity Theory" />
+          <attvalue for="1" value="Deterministic and non-deterministic time and space complexity; complexity classes and hierarchies; NP-complete problems and intractable problems; axiomatic complexity theory." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC695" label="CPSC695">
+        <attvalues>
+          <attvalue for="0" value="Data Management in Geographical Information Systems" />
+          <attvalue for="1" value="Examination of advanced geometric algorithms for representation, analysis and visualization of Geographical Information Systems. Data structures such as progressive mesh, ROAM, multidimensional Delauney triangulization, quadtree and space partitioning. Algorithmic techniques such as incremental, divide and conquer, sweep-plane, and dimension reduction. Algorithms for surface simplification, culling, quality measurement and reduction." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC525" label="CPSC525">
+        <attvalues>
+          <attvalue for="0" value="Principles of Computer Security" />
+          <attvalue for="1" value="Security policies and protection mechanisms for a computing system, including such topics as design principles of protection systems, authentication and authorization, reference monitors, security architecture of popular platforms, formal modelling of protection systems, discretionary access control, safety analysis, information flow control, integrity, role-based access control. Legal and ethical considerations will be introduced." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="PMAT317" label="PMAT317">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC518" label="CPSC518">
+        <attvalues>
+          <attvalue for="0" value="Introduction to Computer Algebra" />
+          <attvalue for="1" value="Fundamental problems, classical and modern algorithms, and algorithm design and analysis techniques of use in computer algebra. Integer and polynomial arithmetic. Additional problems in computer algebra, possibly including problems in computational linear algebra, factorization, and concerning systems of polynomial equations will be considered as time permits." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC667" label="CPSC667">
+        <attvalues>
+          <attvalue for="0" value="Computer Algebra" />
+          <attvalue for="1" value="Fundamental problems, classical and modern algorithms, and algorithm design and analysis techniques of use in computer algebra. Integer and polynomial arithmetic. Additional problems in computer algebra, possibly including problems in computational linear algebra, factorization, and concerning systems of polynomial equations will be considered as time permits." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="MATH209" label="MATH209">
+        <attvalues>
+          <attvalue for="0" value="Applied and Computational Linear Algebra for Energy Engineers" />
+          <attvalue for="1" value="An introduction to systems of linear equations, vectors in Euclidean space, matrix algebra, linear transformations, eigenvalues and engenvectors. Geometrical applications and computing techniques will be emphasized. Students will complete a project using mathematical software. " />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC461" label="CPSC461">
+        <attvalues>
+          <attvalue for="0" value="Information Structures" />
+          <attvalue for="1" value="File architecture and manipulation techniques for various file types. Physical characteristics of current mass storage devices. Advanced data structures and algorithms for implementing various sequential and hierarchical file structures. File organization and design for various applications, file systems and other storage management techniques including website design." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC522" label="CPSC522">
+        <attvalues>
+          <attvalue for="0" value="Introduction to Randomized Algorithms" />
+          <attvalue for="1" value="Techniques for the design and analysis of randomized algorithms; discrete probability theory; randomized data structures; lower bound techniques; randomized complexity classes; advanced algorithmic applications from various areas." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC609" label="CPSC609">
+        <attvalues>
+          <attvalue for="0" value="Foundations of Multi-Agent Systems" />
+          <attvalue for="1" value="Modelling of agents and properties of multi-agent systems. Communication issues, including interaction and co-ordination concepts, forming and maintaining organizations, and competitive agent environments. Example systems; the implementation of a multi-agent system will be performed as the assignment." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="MATH249" label="MATH249">
+        <attvalues>
+          <attvalue for="0" value="Introductory Calculus" />
+          <attvalue for="1" value="An introduction to single variable calculus. Limits, derivatives and integrals of algebraic, exponential, logarithmic and trigonometric functions play a central role. Additional topics include applications of differentiation; the fundamental theorem of calculus, improper integrals and applications of integration." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC441" label="CPSC441">
+        <attvalues>
+          <attvalue for="0" value="Computer Networks" />
+          <attvalue for="1" value="Principles and practice in modern telecommunications, computer communications and networks. Layered communication protocols and current physical, data link, network and Internet protocol layers. Circuit switching, packet switching, and an introduction to broadband multimedia networking." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="SENG301" label="SENG301">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="PMAT331" label="PMAT331">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="ENCM369" label="ENCM369">
+        <attvalues>
+          <attvalue for="0" value="Computer Organization" />
+          <attvalue for="1" value="Organization of a simple stored-program computer: CPU, busses and memory. Instruction sets, machine code, and assembly language. Conventions for assembly language generated by compilers. Floating-point number representation. Hardware organization. Address translation and virtual memory. Input/output devices, computer interfacing, interrupt handling and multi-tasking systems." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC598" label="CPSC598">
+        <attvalues>
+          <attvalue for="0" value="Special Topics in Computer Science" />
+          <attvalue for="1" value="New areas in Computer Science. It will be offered only as required. Before registration consult the Department of Computer Science for topics offered." />
+          <attvalue for="2" value="6 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC599.77" label="CPSC599.77">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="STAT217" label="STAT217">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC671" label="CPSC671">
+        <attvalues>
+          <attvalue for="0" value="Database Management Systems" />
+          <attvalue for="1" value="Foundations of database applications and database systems, plus some advanced topics in data management systems will be introduced." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC610" label="CPSC610">
+        <attvalues>
+          <attvalue for="0" value="Compiler Code Generation and Optimization" />
+          <attvalue for="1" value="Compiler code generation and optimization techniques, including register allocation, instruction selection, dataflow analysis, and code optimization techniques using intermediate representations. Implementation of special language features and tools for automated code generation." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC669" label="CPSC669">
+        <attvalues>
+          <attvalue for="0" value="Cryptography" />
+          <attvalue for="1" value="An overview of the basic techniques in modern cryptography, with emphasis on fit-for-application primitives and protocols. Topics will include symmetric and public-key cryptosystems; digital signatures; elliptic curve cryptography; key management; attack models and well-defined notions of security." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="MATH275" label="MATH275">
+        <attvalues>
+          <attvalue for="0" value="Calculus for Engineers and Scientists " />
+          <attvalue for="1" value="An extensive treatment of differential and integral calculus in a single variable, with an emphasis on applications. Differentiation: derivative laws, the mean value theorem, optimization, curve sketching and other applications. Integral calculus: the fundamental theorem of calculus, techniques of integration, improper integrals, and areas of planar regions. Infinite series: power series, Taylor’s theorem and Taylor series. " />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="ENCM335" label="ENCM335">
+        <attvalues>
+          <attvalue for="0" value="Programming Fundamentals for Electrical Engineers" />
+          <attvalue for="1" value="Key features of the C programming language. Pointers, memory models and memory management. Modular design of software; information hiding. Manipulation of text files and binary files. Introduction to recursion." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC661" label="CPSC661">
+        <attvalues>
+          <attvalue for="0" value="Algorithms for Distributed Computation" />
+          <attvalue for="1" value="Fundamental algorithmic problems in distributed computation; impact of communication, timing, failures and other characteristics on computability and complexity of solutions." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC697" label="CPSC697">
+        <attvalues>
+          <attvalue for="0" value="Biometric Security" />
+          <attvalue for="1" value="Principles of biometric system design, technology and performance evaluation. Verification, identification and synthesis in biometrics. Traditional and emerging techniques for fingerprint matching, face recognition, iris modelling, signature authentication, and biometric pattern recognition. Multi-modal biometrics and biometric security." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="ENGG407" label="ENGG407">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="MATH271" label="MATH271">
+        <attvalues>
+          <attvalue for="0" value="Discrete Mathematics" />
+          <attvalue for="1" value="An introduction to proof techniques and abstract mathematical reasoning: sets, relations and functions; mathematical induction; integers, primes, divisibility and modular arithmetic; counting and combinatorics; elements of probability, discrete random variables and Bayes’ theorem." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="MATH265" label="MATH265">
+        <attvalues>
+          <attvalue for="0" value="University Calculus I " />
+          <attvalue for="1" value="An introduction to single variable calculus intended for students with credit in high school calculus. Limits, derivatives, and integrals of algebraic, exponential, logarithmic and trigonometric functions play a central role. Additional topics include applications of differentiation; the fundamental theorem of calculus, improper integrals and applications of integration. Differential calculus in several variables will also be introduced.  " />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC619" label="CPSC619">
+        <attvalues>
+          <attvalue for="0" value="Quantum Computation" />
+          <attvalue for="1" value="Introduction to quantum computing. Quantum algorithms, quantum search, quantum fourier transforms, quantum error correcting codes, quantum cryptography, nonlocality and quantum communication complexity, and quantum computational complexity." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="AMAT311" label="AMAT311">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC591" label="CPSC591">
+        <attvalues>
+          <attvalue for="0" value="Rendering" />
+          <attvalue for="1" value="Physical foundations of illuminations techniques. Colour. Radiometry and photometry. Reflection models. The rendering equation. Ray tracing. Monte Carlo techniques. Sampling and antialiasing. Texturing. Radiosity. Photon tracing. Volume rendering. Image-based rendering. Real-time shading." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC601" label="CPSC601">
+        <attvalues>
+          <attvalue for="0" value="Special Topics in Computer Science" />
+          <attvalue for="1" value="A study of problems of particular interest to graduate students in Computer Science." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC231" label="CPSC231">
+        <attvalues>
+          <attvalue for="0" value="Introduction to Computer Science for Computer Science Majors I" />
+          <attvalue for="1" value="Introduction to problem solving, the analysis and design of small-scale computational systems, and implementation using a procedural programming language. For computer science majors." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC643" label="CPSC643">
+        <attvalues>
+          <attvalue for="0" value="Modern Wireless Networks" />
+          <attvalue for="1" value="An introduction to the fundamentals and applications of wireless networks." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC511" label="CPSC511">
+        <attvalues>
+          <attvalue for="0" value="Introduction to Complexity Theory" />
+          <attvalue for="1" value="Time and space complexity; the classes P, LOGSPACE, PSPACE and their nondeterministic counterparts; containments and separations between complexity classes; intractability and the theory of NP-completeness; complexity theories for probabilistic algorithms and for parallel algorithms." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="ENDG319" label="ENDG319">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC627" label="CPSC627">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC575" label="CPSC575">
+        <attvalues>
+          <attvalue for="0" value="iProgramming for Creative Minds" />
+          <attvalue for="1" value="Design, develop and market apps. This course has a focus on developing, implementing and evaluating ideas in teams and gaining entrepreneurial skills for software development and marketing. " />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="ENEL353" label="ENEL353">
+        <attvalues>
+          <attvalue for="0" value="Digital Circuits" />
+          <attvalue for="1" value="Number systems and simple codes. Combinational logic: Boolean algebra, truth tables, minterms, maxterms, Karnaugh maps; gates, buffers, multiplexers and decoders; combinational circuit timing. Sequential circuits: latches and D flip flops; timing considerations; analysis and synthesis techniques; Mealy and Moore machine models; counters and registers. Introduction to memory arrays." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="PMAT315" label="PMAT315">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC687" label="CPSC687">
+        <attvalues>
+          <attvalue for="0" value="Computer Animation" />
+          <attvalue for="1" value="Principles of traditional animation, key framing, parametric and track animation, free form deformation, inverse kinematics, dynamics, spring mass systems, particle systems, numerical integration, Lagrangian constraints, space time constraints, collisions, human animation, behavioural animation, metamorphosis, implicit animation techniques, animating liquids, gases and cloth, motion capture." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="ENDG233" label="ENDG233">
+        <attvalues>
+          <attvalue for="0" value="Programming with Data" />
+          <attvalue for="1" value="Fundamental programming constructs and data structures. Algorithm development and problem solving. Programming techniques to facilitate data analysis. Obtaining and cleaning data. Data validation. Data manipulation. Data visualization. Introduction to decision making using machine learning. Applications chosen from all engineering disciplines. " />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC329" label="CPSC329">
+        <attvalues>
+          <attvalue for="0" value="Explorations in Information Security and Privacy" />
+          <attvalue for="1" value="A broad survey of topics in information security and privacy, with the purpose of cultivating an appropriate mindset for approaching security and privacy issues. Topics will be motivated by recreational puzzles. Legal and ethical considerations will be introduced as necessary." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC605" label="CPSC605">
+        <attvalues>
+          <attvalue for="0" value="Information Storage and Processing in Biological Systems" />
+          <attvalue for="1" value="Examination of complex biological systems; concepts and fundamentals of biological solutions to information storage and processing; modelling and computer simulation of biological systems; information storage in biological molecules; genetic networks; hierarchical organization of biological information processing in signal transduction, development, evolution, and ecology; biological control systems." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="PHIL377" label="PHIL377">
+        <attvalues>
+          <attvalue for="0" value="Elementary Formal Logic" />
+          <attvalue for="1" value="Sentential and first-order logic, with identity and descriptions, from both deductive and semantic points of view. Completeness, compactness, decidability for sentential logic." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="MATH253" label="MATH253">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="MATH318" label="MATH318">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC565" label="CPSC565">
+        <attvalues>
+          <attvalue for="0" value="Emergent Computing" />
+          <attvalue for="1" value="An insight into a new mindset for programming as an emergent and evolutionary process of &quot;breeding,&quot; rather than constructing. Programs can evolve to perform specific tasks in a bottom-up fashion rather than being manually coded. Topics will include: decentralized agent-based programming, massive parallelism and interaction, evolution, swarm intelligence." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC601.13" label="CPSC601.13">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="MATH311" label="MATH311">
+        <attvalues>
+          <attvalue for="0" value="Linear Methods II" />
+          <attvalue for="1" value="An introductory course in the theory of abstract vector spaces: linear independence, spanning sets, basis and dimension; linear transformations and the rank-nullity theorem; the Gram-Schmidt algorithm and orthogonal diagonalization; singular value decomposition and other applications." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC215" label="CPSC215">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC413" label="CPSC413">
+        <attvalues>
+          <attvalue for="0" value="Design and Analysis of Algorithms I" />
+          <attvalue for="1" value="Techniques for the analysis of algorithms, including counting, summation, recurrences, and asymptotic relations; techniques for the design of efficient algorithms, including greedy methods, divide and conquer, and dynamic programming; examples of their application; an introduction to tractable and intractable problems." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="MATH213" label="MATH213">
+        <attvalues>
+          <attvalue for="0" value="Linear Algebra I" />
+          <attvalue for="1" value="A rigorous introduction to the theory of vector spaces, with an emphasis on proof writing and abstract reasoning. Topics include fields, subspaces, bases and dimension, linear transformations, determinants, eigenvalues and eigenvectors." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="AMAT219" label="AMAT219">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC629" label="CPSC629">
+        <attvalues>
+          <attvalue for="0" value="Elliptic Curves and Cryptography" />
+          <attvalue for="1" value="An introduction to elliptic curves over the rationals and finite fields. The focus is on both theoretical and computational aspects; subjects covered will include the study of endomorphism rings, Weil pairing, torsion points, group structure, and effective implementation of point addition. Applications to cryptography will be discussed, including elliptic curve-based Diffie-Helman key exchange, El Gamal encryption, and digital signatures, as well as the associated computational problems on which their security is based." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC451" label="CPSC451">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="MATH375" label="MATH375">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC607" label="CPSC607">
+        <attvalues>
+          <attvalue for="0" value="Biological Computation" />
+          <attvalue for="1" value="Examination and modelling of biological networks; focus on the latest developments in biological computing and their theoretical backgrounds, such as: DNA computing; genomic algorithms; artificial chemistries; complex adaptive systems, chaos and fractals; immune system computing; gene regulatory networks; swarm intelligence systems." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="MATH493" label="MATH493">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC313" label="CPSC313">
+        <attvalues>
+          <attvalue for="0" value="Introduction to Computability" />
+          <attvalue for="1" value="An introduction to abstract models of sequential computation, including finite automata, regular expressions, context-free grammars, and Turing machines. Formal languages, including regular, context-free, and recursive languages, methods for classifying languages according to these types, and relationships among these classes." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="SENG311" label="SENG311">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC491" label="CPSC491">
+        <attvalues>
+          <attvalue for="0" value="Techniques for Numerical Computation" />
+          <attvalue for="1" value="Elementary techniques for the numerical solution of mathematical problems on a computer, including methods for solving linear and non-linear equations, numerical integration, and interpolation." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC265" label="CPSC265">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC675" label="CPSC675">
+        <attvalues>
+          <attvalue for="0" value="Datawarehouse Systems" />
+          <attvalue for="1" value="Design, development and deployment of datawarehouses. Schemas, models, data organization, OLAP, tuning, data mining and architectural models may be discussed." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="DATA211" label="DATA211">
+        <attvalues>
+          <attvalue for="0" value="Programming with Data " />
+          <attvalue for="1" value="A hands-on introduction to basic coding skills, including core programming concepts and the fundamentals of reading, writing, and executing code – with a focus on data manipulation. Emphasizes important tools and practices for programming with data, including development environments, source control, and debugging." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC521" label="CPSC521">
+        <attvalues>
+          <attvalue for="0" value="Foundations of Functional Programming" />
+          <attvalue for="1" value="Theoretical foundations of functional programming: the lambda-calculus, beta-reduction, confluence, and reduction strategies. Programming syntax: solving recursive equations with the Y-combinator, let and letrec, types, datatypes, and patterns. Programming in a functional language: recursion patterns, useful combinators, maps, and folds, for datatypes. Example applications: recursive descent parsing, unification, combinatorial algorithms, theorem proving." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC457" label="CPSC457">
+        <attvalues>
+          <attvalue for="0" value="Principles of Operating Systems" />
+          <attvalue for="1" value="An introduction to operating systems principles. Performance measurement; concurrent programs; the management of information, memory and processor resources." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC502" label="CPSC502">
+        <attvalues>
+          <attvalue for="0" value="Research Project" />
+          <attvalue for="1" value="A substantial research project under the guidance of a faculty member. A report must be written and presented on completion of the course. &#10;502.01. Research Project in Computer Science &#10;502.02. Research Project in Theoretical Computer Science &#10;502.03. Research Project in Computer Graphics &#10;502.04. Research Project in Information Security &#10;502.05. Research Project in Scientific Computation &#10;502.06. Research Project in Software Engineering&#10;502.07. Research Project in Human Computer Interaction&#10;502.08. Research Project in Networks and Distributed Computing" />
+          <attvalue for="2" value="6 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC544" label="CPSC544">
+        <attvalues>
+          <attvalue for="0" value="Machine Learning" />
+          <attvalue for="1" value="Presenting various techniques for learning various kinds of knowledge, including rules, parameters, trees and graphs, partitions of sets, sequences and behaviors, and cases. Pointing out the components that can be improved using knowledge about the application area of a system. Looking at various pre-processing and post-processing improvement techniques. " />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC481" label="CPSC481">
+        <attvalues>
+          <attvalue for="0" value="Human-Computer Interaction I" />
+          <attvalue for="1" value="Fundamental theory and practice of the design, implementation, and evaluation of human-computer interfaces. Topics include: principles of design; methods for evaluating interfaces with or without user involvement; techniques for prototyping and implementing graphical user interfaces." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="MATH315" label="MATH315">
+        <attvalues>
+          <attvalue for="0" value="Algebra I " />
+          <attvalue for="1" value="A broad overview of the elementary theory of groups, rings and fields. Group theory: cyclic, symmetric, alternating, dihedral and classical matrix groups, cosets and Lagrange’s theorem, group homomorphisms, normal subgroups, quotient groups and the isomorphism theorem. Rings and fields: the integers modulo n, polynomial rings, ring homomorphisms, ideals, quotient rings the isomorphism theorem, unique factorization domains, principal ideal domains, Euclidean domains and the construction of finite fields." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC657" label="CPSC657">
+        <attvalues>
+          <attvalue for="0" value="Modelling And Visualization of Plants" />
+          <attvalue for="1" value="Modelling, simulation and visualization of plants for computer graphics and biological purposes. Modelling of plants as an example of interdisciplinary research including computer science, biology, mathematics and physics. L-systems as a formal basis for model construction. Modelling languages. Information flow in plants. Symmetry, self-similarity and allometry of plants. Descriptive models of plant architecture. Models integrating plant structure and function. Simulation of plant development. Case studies: competition for space, phyllotaxis, tropisms, and biomechanical considerations. Reaction-diffusion models of morphogensis. Genotype-to-phenotype mapping. Modelling of plant ecosystems. Rendering and visualization of the models. A survey of applications and research directions." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC335" label="CPSC335">
+        <attvalues>
+          <attvalue for="0" value="Intermediate Information Structures" />
+          <attvalue for="1" value="A continuation of Computer Science 319 or 331. Collision resolution in hash tables, search algorithms, advanced tree structures, strings. Advanced algorithmic tools for the storing and manipulation of information." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="PMAT329" label="PMAT329">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC527" label="CPSC527">
+        <attvalues>
+          <attvalue for="0" value="Computer Viruses and Malware" />
+          <attvalue for="1" value="Study of computer viruses, worms, Trojan horses, and other forms of malicious software. Countermeasures to malicious software. Legal and ethical issues, and some general computer and network security issues." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC405" label="CPSC405">
+        <attvalues>
+          <attvalue for="0" value="Software Entrepreneurship " />
+          <attvalue for="1" value="Development of business models, building software prototypes and creation of pitch presentations to create a software-based business." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC630" label="CPSC630">
+        <attvalues>
+          <attvalue for="0" value="Information Theory and Security  " />
+          <attvalue for="1" value="Information theoretic concepts such as entropy and mutual information, and their applications to defining and evaluating information security systems including encryption, authentication, secret sharing and secure message transmission." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="ENEL573" label="ENEL573">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC304" label="CPSC304">
+        <attvalues>
+          <attvalue for="0" value="A Survey of Computer Science for Non-Majors" />
+          <attvalue for="1" value="An accessible exploration of different computing topics.  Emphasizing a familiarity with a broad array of subjects within computer science rather than depth.  Topics may include computing hardware, data representation, data compression, computer graphics, sorting algorithms, artificial intelligence techniques, databases, networks and security and privacy." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC453" label="CPSC453">
+        <attvalues>
+          <attvalue for="0" value="Introduction to Computer Graphics" />
+          <attvalue for="1" value="Introduction to computer graphics. Principles of raster image generation. Example of a graphics API. Graphics primitives. Co-ordinate systems, affine transformations and viewing of graphical objects. Introduction to rendering including shading models and ray tracing. Introduction to modelling including polygon meshes, subdivision, and parametric curves and surfaces." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="ENCM339" label="ENCM339">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC203" label="CPSC203">
+        <attvalues>
+          <attvalue for="0" value="Introduction to Problem Solving using Application Software" />
+          <attvalue for="1" value="Introduction to computer fundamentals; contemporary topics, such as security and privacy, and the Internet and World Wide Web. Problem solving, analysis and design using application software such as spreadsheets and word processors." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC429" label="CPSC429">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="MATH267" label="MATH267">
+        <attvalues>
+          <attvalue for="0" value="University Calculus II" />
+          <attvalue for="1" value="A concluding treatment of single variable calculus and an introduction to calculus in several variables. Single variable calculus: techniques of integration, sequences, series, convergence tests, and Taylor series. Calculus of several variables: partial differentiation, multiple integration, parametric equations, and applications" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="MATH273" label="MATH273">
+        <attvalues>
+          <attvalue for="0" value="Numbers and Proofs" />
+          <attvalue for="1" value="A rigorous introduction to proof techniques and abstract mathematical reasoning with an emphasis on number systems: functions, sets and relations; the integers, prime numbers, divisibility and modular arithmetic; induction and recursion; real numbers; Cauchy sequences and completeness; complex numbers." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="ENCM415" label="ENCM415">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="ENCH407" label="ENCH407">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC599" label="CPSC599">
+        <attvalues>
+          <attvalue for="0" value="Special Topics in Computer Science" />
+          <attvalue for="1" value="Exploration of various areas in Computer Science. Topics will vary from year-to-year. It will be offered as required to provide the opportunity for students to engage in additional areas in Computer Science. Before registration, consult the Department of Computer Science for topics offered. " />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC662" label="CPSC662">
+        <attvalues>
+          <attvalue for="0" value="Agent Communications" />
+          <attvalue for="1" value="An examination of communication paradigms in multi-agent systems. A number of paradigms will be covered including simple protocols, BDI (Believe, Desire, Intension), and social commitments." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="SENG697" label="SENG697">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="STAT205" label="STAT205">
+        <attvalues>
+          <attvalue for="0" value="Introduction to Statistical Inquiry " />
+          <attvalue for="1" value="The systematic progression of statistical principles needed to conduct a statistical investigation culminating in parameter estimation, hypothesis testing, statistical modelling, and design of experiments. " />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC355" label="CPSC355">
+        <attvalues>
+          <attvalue for="0" value="Computing Machinery I" />
+          <attvalue for="1" value="An introduction to computing machinery establishing the connection between programs expressed in a compiled language, an assembly language, and machine code, and how such code is executed. Includes the detailed study of a modern CPU architecture, its assembly language and internal data representation, and the relationship between high-level program constructs and machine operations." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC696" label="CPSC696">
+        <attvalues>
+          <attvalue for="0" value="Information Security Seminar" />
+          <attvalue for="1" value="Topics in information security, such as security management, emerging threats, research frontiers using case studies and best practices. " />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC785" label="CPSC785">
+        <attvalues>
+          <attvalue for="0" value="Implicit Modelling" />
+          <attvalue for="1" value="A detailed look at modelling using implicit and iso-surface techniques taking an in-depth review of the literature. Algebraic methods will be followed by skeletal models, field function design, modelling techniques, rendering and texture mapping. Polygonisation algorithms, ray tracing implicits, techniques for animation, meta-morphosis, precise contact modelling, deformation and warping. Algorithms and data structures and implementation details will be presented. Students will be expected to make a new contribution in their project and term paper." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC594" label="CPSC594">
+        <attvalues>
+          <attvalue for="0" value="Software Engineering Project" />
+          <attvalue for="1" value="A software engineering project conducted under the guidance of a faculty member." />
+          <attvalue for="2" value="6 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC577" label="CPSC577">
+        <attvalues>
+          <attvalue for="0" value="Biometric Technologies" />
+          <attvalue for="1" value="Principles of biometric system design, technology and performance evaluation. Verification, identification and synthesis in biometrics. Traditional and emerging techniques for fingerprint matching, face recognition, iris modelling, signature authentication, and biometric pattern recognition. Multi-modal biometrics and information fusion. Privacy and ethics considerations in deployment of biometric systems." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC672" label="CPSC672">
+        <attvalues>
+          <attvalue for="0" value="Fundamentals of Social Network Analysis and Data Mining " />
+          <attvalue for="1" value="Introduction to data mining with emphasis on frequent pattern mining, clustering and classification, data collection, network construction, basic graph theory concepts and network analysis metrics, and case studies. " />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC550" label="CPSC550">
+        <attvalues>
+          <attvalue for="0" value="Systems Administration" />
+          <attvalue for="1" value="Topics and practices in systems administration and management. Required and optional administration duties and responsibilities. Moral and ethical conundrums, and legal responsibilities, in systems operation. Configuration and installation of operating systems and network and systems services." />
+          <attvalue for="2" value="6 units" />
+        </attvalues>
+      </node>
+      <node id="MATH283" label="MATH283">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC641" label="CPSC641">
+        <attvalues>
+          <attvalue for="0" value="Performance Issues in High Speed Networks" />
+          <attvalue for="1" value="An overview of current research in high speed networks. Topics covered will include the current Internet, the future Internet, wireless networks, optical networks, Asynchronous Transfer Mode (ATM), TCP/IP, network traffic measurement, web server performance, and mobile computing. Emphasis will be placed on network performance issues for next-generation Internet protocols and applications." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC321" label="CPSC321">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="SENG480" label="SENG480">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC359" label="CPSC359">
+        <attvalues>
+          <attvalue for="0" value="Computing Machinery II" />
+          <attvalue for="1" value="An introduction to hardware and microprocessor design, including the connection between gate-level digital logic circuits and sequential machines that can execute an algorithm and perform input and output." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC561" label="CPSC561">
+        <attvalues>
+          <attvalue for="0" value="Introduction to Distributed Algorithms" />
+          <attvalue for="1" value="Basic problems in distributed systems such as symmetry breaking, consensus, resource allocation, and synchronization. The impact of system characteristics, such as models of communication, timing and failure, and of solution requirements, such as correctness and complexity criteria and algorithmic constraints, on the computability and complexity of these problems. Techniques for solving problems under different models will be emphasized." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC455" label="CPSC455">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC529" label="CPSC529">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="MATH313" label="MATH313">
+        <attvalues>
+          <attvalue for="0" value="Linear Algebra II" />
+          <attvalue for="1" value="The theory of linear operators acting on finite dimensional vector spaces: invariant subspaces, diagonalization and triangulation; canonical forms; inner product spaces and orthogonalization; spectral theory; singular value decomposition and other applications." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC559" label="CPSC559">
+        <attvalues>
+          <attvalue for="0" value="Introduction to Distributed Systems" />
+          <attvalue for="1" value="Designing and implementing distributed systems that overcome challenges due to concurrent computation, failure of components in the system and heterogeneity of processors and communication channels. " />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="STAT327" label="STAT327">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC771" label="CPSC771">
+        <attvalues>
+          <attvalue for="0" value="Current Trends in Database Technology" />
+          <attvalue for="1" value="Advanced topics chosen from Bioinformatics, Data mining, Mobile Databases, Spatial Databases and Web Databases. There is a large project component." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC409" label="CPSC409">
+        <attvalues>
+          <attvalue for="0" value="History of Computation" />
+          <attvalue for="1" value="The history of computation from the earliest times to the modern era." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="SENG300" label="SENG300">
+        <attvalues>
+          <attvalue for="0" value="Introduction to Software Engineering" />
+          <attvalue for="1" value="Introduction to the development and evolution of software. Covers key conceptual foundations as well as key methods and techniques used in the different phases of the software lifecycle. Emphasis on both technical and soft skills needed for high quality software and software-based products developed in teams." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC519" label="CPSC519">
+        <attvalues>
+          <attvalue for="0" value="Introduction to Quantum Computation" />
+          <attvalue for="1" value="Introduction to quantum computing. Quantum algorithms, quantum search, quantum fourier transforms, quantum error correcting codes, quantum cryptography, nonlocality and quantum communication complexity, and quantum computational complexity." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC433" label="CPSC433">
+        <attvalues>
+          <attvalue for="0" value="Artificial Intelligence" />
+          <attvalue for="1" value="An examination of the objectives, key techniques and achievements of work on artificial intelligence in Computer Science." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC568" label="CPSC568">
+        <attvalues>
+          <attvalue for="0" value="Agent Communications" />
+          <attvalue for="1" value="An examination of communication paradigms in multi-agent systems. A number of paradigms will be covered including simple protocols, BDI (Believe, Desire, Intension), and social commitments." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC503" label="CPSC503">
+        <attvalues>
+          <attvalue for="0" value="Project" />
+          <attvalue for="1" value="A research project conducted under the guidance of a faculty member. A report must be presented on completion of the course.&#10;503.01. Project in Computer Science&#10;503.02. Project in Theoretical Computer Science &#10;503.03. Project in Computer Graphics &#10;503.04. Project in Information Security &#10;503.05. Project in Scientific Computation &#10;503.06. Project in Software Engineering&#10;503.07. Project in Human Computer Interaction&#10;503.08. Project in Networks and Distributed Computing " />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC622" label="CPSC622">
+        <attvalues>
+          <attvalue for="0" value="Randomized Algorithms" />
+          <attvalue for="1" value="Design and analysis of randomized algorithms; discrete probability theory; randomized data structures; lower bound techniques; randomized complexity classes; advanced algorithmic applications from various areas." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC625" label="CPSC625">
+        <attvalues>
+          <attvalue for="0" value="Principles of Computer Security" />
+          <attvalue for="1" value="Security policies and protection mechanisms for a computing system, including such topics as design principles of protection systems, authentication and authorization, reference monitors, security architecture of popular platforms, formal modelling of protection systems, discretionary access control, safety analysis, information flow control, integrity, role-based access control. Legal and ethical considerations will be introduced as necessary." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC615" label="CPSC615">
+        <attvalues>
+          <attvalue for="0" value="Computational Techniques for Graphics and Visualization" />
+          <attvalue for="1" value="Various case studies from the fields of graphics and visualization. Topics in numerical linear algebra, numerical optimization, and discrete differential geometry." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC411" label="CPSC411">
+        <attvalues>
+          <attvalue for="0" value="Compiler Construction" />
+          <attvalue for="1" value="Introduction to compilers, interpreters, and the tools for parsing and translation. Lexical analysis, context free grammars and software tools for their recognition. Attribute grammars and their applications in translation and compiling." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC581" label="CPSC581">
+        <attvalues>
+          <attvalue for="0" value="Human-Computer Interaction II" />
+          <attvalue for="1" value="Intermediate and advanced topics and applications in human-computer interaction, to further one's skills for designing highly interactive human-computer interfaces." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC535" label="CPSC535">
+        <attvalues>
+          <attvalue for="0" value="Introduction to Image Analysis and Computer Vision" />
+          <attvalue for="1" value="Standard methods used in the analysis of digital images. Image acquisition and display: visual perception; digital representation. Sampling and enhancement. Feature extraction and classification methods. Object recognition." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="PMAT418" label="PMAT418">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="MATH331" label="MATH331">
+        <attvalues>
+          <attvalue for="0" value="Advanced Calculus for Energy Engineering" />
+          <attvalue for="1" value="A broad introduction to ordinary differential equations, multivariable calculus and elements of vector calculus. Differential equations: linear ordinary differential equations, and systems of linear ordinary differential equations. Calculus of several variables: partial differentiation, the chain rule, double and triple integrals. Vector Calculus: vector fields, line integrals, and flux integrals." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC349" label="CPSC349">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC325" label="CPSC325">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC789" label="CPSC789">
+        <attvalues>
+          <attvalue for="0" value="Advanced Geometric Modelling" />
+          <attvalue for="1" value="Current research topics including spline modelling, Subdivision Surfaces, multiresolution, wavelets, analysis of the subdivision surfaces and reverse subdivision." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC699" label="CPSC699">
+        <attvalues>
+          <attvalue for="0" value="Research Methodology in Computer Science" />
+          <attvalue for="1" value="An introduction to and survey of research areas and methods in Computer Science. Professional skills in computer science research such as reviewing, critical evaluation, and the preparation of research proposals." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC333" label="CPSC333">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC681" label="CPSC681">
+        <attvalues>
+          <attvalue for="0" value="Research Methods in Human-Computer Interaction" />
+          <attvalue for="1" value="Application of the theory and methodology of human-machine studies to real systems; theory and practice." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC584" label="CPSC584">
+        <attvalues>
+          <attvalue for="0" value="Human-Robot Interaction" />
+          <attvalue for="1" value="Introduction to the design, implementation and evaluation of human-robot interfaces. Topics include the evaluation of human-robot interaction (HRI), theoretical, philosophical and ethical issues, exploration of applications and tasks, prototyping HRI tools, and practical implementation and evaluation methods." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="STAT321" label="STAT321">
+        <attvalues>
+          <attvalue for="0" value="Introduction to Probability " />
+          <attvalue for="1" value="A calculus-based introduction to probability theory and applications. Elements of probabilistic modelling, Basic probability computation techniques, Discrete and continuous random variables and distributions, Functions of random variables, Expectation and variance, Multivariate random variables, Conditional distributions, Covariance, Conditional expectation, Central Limit Theorem, Applications to real-world modelling. " />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC673" label="CPSC673">
+        <attvalues>
+          <attvalue for="0" value="Distributed Database Systems" />
+          <attvalue for="1" value="Introduction to distributed database systems. Topics covered include: architecture, data design, query processing, transaction management, multidatabases, object-oriented databases and advanced system issues." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="MATH321" label="MATH321">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC331" label="CPSC331">
+        <attvalues>
+          <attvalue for="0" value="Data Structures, Algorithms, and Their Analysis" />
+          <attvalue for="1" value="Fundamental data structures, including arrays, lists, stacks, queues, trees, hash tables, and graphs. Algorithms for searching and sorting. Introduction to the correctness and analysis of algorithms. For computer science majors and those interested in algorithm design and analysis, information security, and other mathematically-intensive areas." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="DATA201" label="DATA201">
+        <attvalues>
+          <attvalue for="0" value="Thinking with Data " />
+          <attvalue for="1" value="An introduction to tools and techniques for managing, visualizing, and making sense of data. Includes an introduction to data cleaning, basic statistics, exploratory visualization, sensemaking, and data presentation." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="ENGG319" label="ENGG319">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC635" label="CPSC635">
+        <attvalues>
+          <attvalue for="0" value="Image Analysis and Computer Vision" />
+          <attvalue for="1" value="Standard methods used in the analysis of digital images. Image acquisition and display: visual perception; digital representation. Sampling and enhancement. Feature extraction and classification methods. Object recognition." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC602" label="CPSC602">
+        <attvalues>
+          <attvalue for="0" value="Explorations in Information Security and Privacy" />
+          <attvalue for="1" value="Surveys topics in information security and privacy, with the purposes of cultivating an appropriate mindset for approaching security and privacy issues and developing basic familiarity with related technical controls." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="ENSF599" label="ENSF599">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC653" label="CPSC653">
+        <attvalues>
+          <attvalue for="0" value="Computational Geometry" />
+          <attvalue for="1" value="Geometric searching, hull proximity and intersection data structures and algorithms and their complexity." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="PHIL279" label="PHIL279">
+        <attvalues>
+          <attvalue for="0" value="Logic I" />
+          <attvalue for="1" value="Sentential and first-order logic from both deductive and semantic points of view. Some elementary metatheorems." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC767" label="CPSC767">
+        <attvalues>
+          <attvalue for="0" value="Advanced Topics in Multiagent Systems" />
+          <attvalue for="1" value="An in-depth study of a selected subfield of multiagent systems including state-of-the-art research. This is a project-driven course." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="SENG403" label="SENG403">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC531" label="CPSC531">
+        <attvalues>
+          <attvalue for="0" value="Systems Modelling and Simulation" />
+          <attvalue for="1" value="An introduction to the modelling and simulation of stochastic systems; programming language issues; model and tool design; input data modelling; simulation experiments; and the interpretation of simulation results." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="MATH376" label="MATH376">
+        <attvalues>
+          <attvalue for="0" value="Differential Equations I " />
+          <attvalue for="1" value="Classification of ordinary differential equations, first and second order equations with applications, series solutions about regular points and singular points, special functions, Laplace transform. " />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC530" label="CPSC530">
+        <attvalues>
+          <attvalue for="0" value="Information Theory and Security  " />
+          <attvalue for="1" value="Information theoretic concepts such as entropy and mutual information and their applications to defining and evaluating information security systems including encryption, authentication, secret sharing and secure message transmission." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC604" label="CPSC604">
+        <attvalues>
+          <attvalue for="0" value="Foundations of Access Control" />
+          <attvalue for="1" value="Application of formal methods and mathematical logic to the modelling of access control systems and the design of policy languages. Topics include safety and resiliency analysis, proof of policy compliance, expressiveness of policy languages, policy analysis, as well as a survey of modern paradigms of access control." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC251" label="CPSC251">
+        <attvalues>
+          <attvalue for="0" value="Theoretical Foundations of Computer Science I " />
+          <attvalue for="1" value="Proof techniques. Recursion and iteration. Specification of algorithmic problems, proofs of correctness, and bounds on their computational complexity. Discrete structures such as graphs, trees, strings, functions, and their computer representation. Counting, permutations, discrete probability spaces, random events. Applications in Computer Science." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC217" label="CPSC217">
+        <attvalues>
+          <attvalue for="0" value="Introduction to Computer Science for Multidisciplinary Studies I" />
+          <attvalue for="1" value="Introduction to problem solving, analysis and design of small-scale computational systems and implementation using a procedural programming language. For students wishing to combine studies in computer science with studies in other disciplines." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC583" label="CPSC583">
+        <attvalues>
+          <attvalue for="0" value="Introduction to Information Visualization" />
+          <attvalue for="1" value="Principles of information representation, presentation and interaction. Development of mappings from data to visual structures and exploration, navigation, cues, distortion and emphasis techniques." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC698" label="CPSC698">
+        <attvalues>
+          <attvalue for="0" value="Information Security Project" />
+          <attvalue for="1" value="An information security project conducted under the guidance of a faculty member. A report must be written and presented on completion of the course." />
+          <attvalue for="2" value="6 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC449" label="CPSC449">
+        <attvalues>
+          <attvalue for="0" value="Programming Paradigms" />
+          <attvalue for="1" value="Examination of the basic principles of the major programming language paradigms. Focus on declarative paradigms such as functional and logic programming. Data types, control expressions, loops, types of references, lazy evaluation, different interpretation principles, information hiding." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="ENEL497" label="ENEL497">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC626" label="CPSC626">
+        <attvalues>
+          <attvalue for="0" value="Network Systems Security" />
+          <attvalue for="1" value="Attacks on networked systems, tools and techniques for detection and protection against attacks including firewalls and intrusion detection and protection systems, authentication and identification in distributed systems, cryptographic protocols for IP networks, security protocols for emerging networks and technologies, privacy enhancing communication. Legal and ethical issues will be introduced as necessary." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC526" label="CPSC526">
+        <attvalues>
+          <attvalue for="0" value="Network Systems Security" />
+          <attvalue for="1" value="Attacks on networked systems, tools and techniques for detection and protection against attacks including firewalls and intrusion detection and protection systems, authentication and identification in distributed systems, cryptographic protocols for IP networks, security protocols for emerging networks and technologies, privacy enhancing communication. Legal and ethical issues will be introduced." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="AMAT307" label="AMAT307">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="ENSF591" label="ENSF591">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC628" label="CPSC628">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC571" label="CPSC571">
+        <attvalues>
+          <attvalue for="0" value="Design and Implementation of Database Systems" />
+          <attvalue for="1" value="Implementation and design of modern database systems including query modification/optimization, recovery, concurrency, integrity, and distribution." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC589" label="CPSC589">
+        <attvalues>
+          <attvalue for="0" value="Modelling for Computer Graphics" />
+          <attvalue for="1" value="Parametric Modelling. B-splines and NURBS. Subdivision schemes. Surface subdivision. Multiresolution. Wavelets. Implicit modelling. Blends. Polygonization. Blobtree. Precise contact modelling. Solid modelling. CSG. Procedural modelling. Special topics, e.g. Differential geometry. Graph-based modelling. Topology." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="SENG411" label="SENG411">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="MATH391" label="MATH391">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC219" label="CPSC219">
+        <attvalues>
+          <attvalue for="0" value="Introduction to Computer Science for Multidisciplinary Studies II" />
+          <attvalue for="1" value="Continuation of Introduction to Computer Science for Multidisciplinary Studies I. Emphasis on object oriented analysis and design of small-scale computational systems and implementation using an object oriented language. Issues of design, modularization and programming style will be emphasized." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="MATH353" label="MATH353">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC235" label="CPSC235">
+        <attvalues>
+          <attvalue for="0" value="Advanced Introduction to Computer Science" />
+          <attvalue for="1" value="An accelerated introduction to problem solving, the analysis and design of small-scale computational systems and implementation using both procedural and object oriented programming languages. Issues of design, modularization, and programming style will be emphasized." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="STAT213" label="STAT213">
+        <attvalues>
+          <attvalue for="0" value="Introduction to Statistics I" />
+          <attvalue for="1" value="Introduction to probability, including Bayes' law, expectations and distributions. Discrete and continuous random variables, including properties of the normal curve. Collection and visual display of single and multi-dimensional data. Introduction to statistical modeling and estimation. Parametric and simulation-based confidence interval estimation." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC567" label="CPSC567">
+        <attvalues>
+          <attvalue for="0" value="Foundations of Multi-Agent Systems" />
+          <attvalue for="1" value="Modelling of agents and properties of multi-agent systems. Communication issues, including interaction and co-ordination concepts, forming and maintaining organizations, and competitive agent environments. Example systems; the implementation of a multi-agent system will be performed as the assignment." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC572" label="CPSC572">
+        <attvalues>
+          <attvalue for="0" value="Fundamentals of Social Network Analysis and Data Mining " />
+          <attvalue for="1" value="Introduction to data mining with emphasis on frequent pattern mining, clustering and classification, data collection, network construction, basic graph theory concepts and network analysis metrics, and case studies. " />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC528" label="CPSC528">
+        <attvalues>
+          <attvalue for="0" value="Spam and Spyware" />
+          <attvalue for="1" value="Spam and other unsolicited bulk electronic communication, and spyware. Legal and ethical issues. Countermeasures and related security problems." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC701" label="CPSC701">
+        <attvalues>
+          <attvalue for="0" value="Research Topics in Computer Science" />
+          <attvalue for="1" value="In-depth course on a focused current research topic in Computer Science. Involves a significant research component and requires substantial background knowledge." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="ENCM493" label="ENCM493">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC399" label="CPSC399">
+        <attvalues>
+          <attvalue for="0" value="Special Topics in Computer Science" />
+          <attvalue for="1" value="Exploration of various areas in Computer Science. Topics will vary from year-to-year. It will be offered as required to provide the opportunity for students to engage in additional areas in Computer Science. Before registration, consult the Department of Computer Science for topics offered." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC585" label="CPSC585">
+        <attvalues>
+          <attvalue for="0" value="Games Programming" />
+          <attvalue for="1" value="Standard techniques for the implementation of computer games. Standard multimedia programming environments and high performance multimedia. Special purpose rendering engines. Interactive control and feedback; modelling." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC301" label="CPSC301">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC499" label="CPSC499">
+        <attvalues>
+          <attvalue for="0" value="Special Topics in Computer Science" />
+          <attvalue for="1" value="Exploration of various areas in Computer Science. Topics will vary from year-to-year. It will be offered as required to provide the opportunity for students to engage in additional areas in Computer Science. Before registration, consult the Department of Computer Science for topics offered. " />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="ENSF480" label="ENSF480">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC689" label="CPSC689">
+        <attvalues>
+          <attvalue for="0" value="Modelling for Computer Graphics" />
+          <attvalue for="1" value="Parametric Modelling. B-splines and NURBS. Subdivision schemes. Surface subdivision. Multiresolution. Wavelets. Implicit modelling. Blends. Polygonization. Blobtree. Precise contact modelling. Solid modelling. CSG. Procedural modelling. Special topics, e.g. Differential geometry. Graph-based modelling. Topology." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC683" label="CPSC683">
+        <attvalues>
+          <attvalue for="0" value="Information Visualization: Theory and Practice" />
+          <attvalue for="1" value="The theory and development of interactive visual representations of abstract data for the purpose of amplifying cognition. Topics covered can include representational issues, perceptual issues, visual literacy, spatial abstraction, and interaction issues." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="MATH277" label="MATH277">
+        <attvalues>
+          <attvalue for="0" value="Multivariable Calculus for Engineers and Scientists " />
+          <attvalue for="1" value="An introduction to calculus of several real variables: curves and parametrizations, partial differentiation, the chain rule, implicit functions; integration in two and three variables and applications; optimization and Lagrange multipliers. " />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC617" label="CPSC617">
+        <attvalues>
+          <attvalue for="0" value="Category Theory for Computer Science" />
+          <attvalue for="1" value="Introduction to category theory with applications in computer science. Functors, natural transformations, adjoints and monads, initial and final algebras. Introduction to 2-categories and fibrations." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC471" label="CPSC471">
+        <attvalues>
+          <attvalue for="0" value="Data Base Management Systems" />
+          <attvalue for="1" value="Conceptual, internal and external data bases. Relational data base systems and SQL. The normal forms, data base design, and the entity-relationship approach." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC517" label="CPSC517">
+        <attvalues>
+          <attvalue for="0" value="Design and Analysis of Algorithms II" />
+          <attvalue for="1" value="Advanced techniques for the design and analysis of deterministic and probabilistic algorithms; techniques for deriving lower bounds on the complexity of problems." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC557" label="CPSC557">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="ENSF337" label="ENSF337">
+        <attvalues>
+          <attvalue for="0" value="Programming Fundamentals for Software and Computer" />
+          <attvalue for="1" value="Key features of the C programming language. Pointers, memory models and memory management. Manipulation of text files and binary files. Introduction to recursion. Introduction to a modern object-oriented language. Development of basic program design skills with small projects." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC599.44" label="CPSC599.44">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC319" label="CPSC319">
+        <attvalues>
+          <attvalue for="0" value="Data Structures, Algorithms, and Their Applications" />
+          <attvalue for="1" value="Fundamental data structures, including arrays, lists, stacks, queues, trees, hash tables, and graphs. Algorithms for searching and sorting. Introduction to analysis of algorithms. Applications of these data structures and algorithms. For students wishing to combine studies in computer science with studies in other disciplines." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC501" label="CPSC501">
+        <attvalues>
+          <attvalue for="0" value="Advanced Programming Techniques" />
+          <attvalue for="1" value="Theory and application of advanced programming methods and tools. Recent issues as well as those of an enduring nature will be discussed." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC587" label="CPSC587">
+        <attvalues>
+          <attvalue for="0" value="Fundamentals of Computer Animation" />
+          <attvalue for="1" value="Principles of traditional animation, key framing, parametric and track animation, free form deformation, inverse kinematics, dynamics, spring mass systems, particle systems, numerical integration, Lagrangian constraints, space time constraints, collisions, human animation, behavioural animation, metamorphosis, implicit animation techniques, animating liquids, gases and cloth, motion capture." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC418" label="CPSC418">
+        <attvalues>
+          <attvalue for="0" value="Introduction to Cryptography" />
+          <attvalue for="1" value="The basics of cryptography, with emphasis on attaining well-defined and practical notations of security. Symmetric and public key cryptosystems; one-way and trapdoor functions; mechanisms for data integrity; digital signatures; key management; applications to the design of cryptographic systems. In addition to written homework, assessment will involve application programming; additional mathematical theory and proof-oriented exercises will be available for extra credit." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="ENGG233" label="ENGG233">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC691" label="CPSC691">
+        <attvalues>
+          <attvalue for="0" value="Rendering" />
+          <attvalue for="1" value="Physical foundations of illuminations techniques. Colour. Radiometry and photometry. Reflection models. The rendering equation. Ray tracing. Monte Carlo techniques. Sampling and antialiasing. Texturing. Radiosity. Photon tracing. Volume rendering. Image-based rendering. Real-time shading." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="CPSC233" label="CPSC233">
+        <attvalues>
+          <attvalue for="0" value="Introduction to Computer Science for Computer Science Majors II" />
+          <attvalue for="1" value="Continuation of Introduction to Computer Science for Computer Science Majors I. Emphasis on object-oriented analysis and design of small-scale computational systems and implementation using an object oriented language. Issues of design, modularization, and programming style will be emphasized." />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+      <node id="BTMA331" label="BTMA331">
+        <attvalues>
+          <attvalue for="0" value="" />
+          <attvalue for="1" value="" />
+          <attvalue for="2" value="3 units" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="CPSC351" target="CPSC413" id="0">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC351" target="CPSC413" id="1">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC351" target="CPSC413" id="2">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC351" target="CPSC413" id="3">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC351" target="CPSC413" id="4">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC351" target="CPSC413" id="5">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC351" target="CPSC418" id="6">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC351" target="CPSC433" id="7">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC351" target="CPSC433" id="8">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC351" target="CPSC513" id="9">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC351" target="CPSC521" id="10">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC351" target="CPSC449" id="11">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC351" target="CPSC457" id="12">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC351" target="CPSC530" id="13">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC351" target="CPSC530" id="14">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC351" target="CPSC530" id="15">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC351" target="CPSC530" id="16">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC351" target="CPSC530" id="17">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC351" target="CPSC530" id="18">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC351" target="CPSC530" id="19">
+        <attvalues>
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC351" target="CPSC530" id="20">
+        <attvalues>
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC351" target="CPSC530" id="21">
+        <attvalues>
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="MATH211" target="MATH249" id="22">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH211" target="MATH249" id="23">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH211" target="MATH249" id="24">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="MATH211" target="MATH249" id="25">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="MATH211" target="MATH265" id="26">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH211" target="MATH265" id="27">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH211" target="MATH265" id="28">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="MATH211" target="MATH265" id="29">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="MATH211" target="MATH275" id="30">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH211" target="MATH275" id="31">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH211" target="MATH275" id="32">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="MATH211" target="MATH275" id="33">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="MATH211" target="MATH275" id="34">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="MATH211" target="MATH253" id="35">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH211" target="MATH253" id="36">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH211" target="MATH267" id="37">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH211" target="MATH267" id="38">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH211" target="MATH277" id="39">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH211" target="MATH277" id="40">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH211" target="MATH283" id="41">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH211" target="MATH283" id="42">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH211" target="AMAT219" id="43">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH211" target="AMAT219" id="44">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH211" target="CPSC413" id="45">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH211" target="MATH311" id="46">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH211" target="MATH271" id="47">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="DATA311" target="CPSC481" id="48">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="DATA311" target="CPSC575" id="49">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="DATA311" target="CPSC583" id="50">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="STAT211" target="CPSC457" id="51">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC609" target="CPSC767" id="52">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH249" target="CPSC251" id="53">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH249" target="CPSC251" id="54">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH249" target="CPSC251" id="55">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="MATH249" target="CPSC251" id="56">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="MATH249" target="CPSC251" id="57">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="MATH249" target="CPSC251" id="58">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="MATH249" target="CPSC251" id="59">
+        <attvalues>
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="MATH249" target="CPSC251" id="60">
+        <attvalues>
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="MATH249" target="CPSC251" id="61">
+        <attvalues>
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="MATH249" target="CPSC251" id="62">
+        <attvalues>
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="MATH249" target="CPSC251" id="63">
+        <attvalues>
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="MATH249" target="CPSC251" id="64">
+        <attvalues>
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="MATH249" target="CPSC313" id="65">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH249" target="CPSC313" id="66">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH249" target="CPSC331" id="67">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH249" target="CPSC331" id="68">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH249" target="CPSC331" id="69">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="MATH249" target="CPSC331" id="70">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="MATH249" target="CPSC319" id="71">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH249" target="CPSC319" id="72">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH249" target="MATH267" id="73">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC441" target="CPSC526" id="74">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC441" target="CPSC457" id="75">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC441" target="CPSC457" id="76">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="SENG301" target="CPSC405" id="77">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="SENG301" target="CPSC481" id="78">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="SENG301" target="CPSC575" id="79">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="PMAT331" target="CPSC535" id="80">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="ENCM369" target="CPSC411" id="81">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="ENCM369" target="CPSC411" id="82">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="ENCM369" target="CPSC441" id="83">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="ENCM369" target="CPSC441" id="84">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="ENCM369" target="CPSC457" id="85">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="ENCM369" target="CPSC457" id="86">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH275" target="PHIL279" id="87">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH275" target="PHIL279" id="88">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH275" target="PHIL279" id="89">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="MATH275" target="PHIL279" id="90">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="MATH275" target="PHIL279" id="91">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="MATH275" target="PHIL279" id="92">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="MATH275" target="PHIL377" id="93">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH275" target="PHIL377" id="94">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH275" target="PHIL377" id="95">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="MATH275" target="PHIL377" id="96">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="MATH275" target="PHIL377" id="97">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="MATH275" target="PHIL377" id="98">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="MATH275" target="CPSC313" id="99">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH275" target="CPSC313" id="100">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH275" target="CPSC331" id="101">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH275" target="CPSC331" id="102">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH275" target="CPSC331" id="103">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="MATH275" target="CPSC331" id="104">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="MATH275" target="CPSC319" id="105">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH275" target="CPSC319" id="106">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH275" target="MATH277" id="107">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH275" target="MATH277" id="108">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH275" target="MATH267" id="109">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="ENCM335" target="CPSC319" id="110">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="ENCM335" target="CPSC331" id="111">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="ENCM335" target="CPSC331" id="112">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="ENCM335" target="CPSC331" id="113">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="ENCM335" target="ENEL353" id="114">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="PHIL279" id="115">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="PHIL279" id="116">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="PHIL279" id="117">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="PHIL377" id="118">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="PHIL377" id="119">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="PHIL377" id="120">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="CPSC331" id="121">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="CPSC331" id="122">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="CPSC331" id="123">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="CPSC331" id="124">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="ENCM335" id="125">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="ENCM339" id="126">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="ENSF337" id="127">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="CPSC457" id="128">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="CPSC351" id="129">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="CPSC351" id="130">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="STAT321" id="131">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="STAT321" id="132">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="STAT321" id="133">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="STAT321" id="134">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="CPSC530" id="135">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="CPSC530" id="136">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="CPSC530" id="137">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="CPSC530" id="138">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="CPSC530" id="139">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="CPSC530" id="140">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="MATH315" id="141">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH271" target="ENEL353" id="142">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH265" target="PHIL279" id="143">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH265" target="PHIL279" id="144">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH265" target="PHIL279" id="145">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="MATH265" target="PHIL279" id="146">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="MATH265" target="PHIL279" id="147">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="MATH265" target="PHIL279" id="148">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="MATH265" target="PHIL377" id="149">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH265" target="PHIL377" id="150">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH265" target="PHIL377" id="151">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="MATH265" target="PHIL377" id="152">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="MATH265" target="PHIL377" id="153">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="MATH265" target="PHIL377" id="154">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="MATH265" target="CPSC313" id="155">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH265" target="CPSC313" id="156">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH265" target="CPSC331" id="157">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH265" target="CPSC331" id="158">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH265" target="CPSC331" id="159">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="MATH265" target="CPSC331" id="160">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="MATH265" target="CPSC319" id="161">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH265" target="CPSC319" id="162">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH265" target="MATH267" id="163">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="AMAT311" target="CPSC535" id="164">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC231" target="CPSC233" id="165">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC231" target="CPSC251" id="166">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC231" target="CPSC565" id="167">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC231" target="DATA311" id="168">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="ENEL353" target="ENCM369" id="169">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="ENEL353" target="ENCM369" id="170">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="PMAT315" target="CPSC331" id="171">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="ENDG233" target="DATA311" id="172">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="ENDG233" target="ENCM335" id="173">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="ENDG233" target="ENSF337" id="174">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC329" target="CPSC441" id="175">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC313" id="176">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC313" id="177">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC313" id="178">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC313" id="179">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC313" id="180">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC313" id="181">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC313" id="182">
+        <attvalues>
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC329" id="183">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC329" id="184">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC329" id="185">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC329" id="186">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC329" id="187">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC329" id="188">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC329" id="189">
+        <attvalues>
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC329" id="190">
+        <attvalues>
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC329" id="191">
+        <attvalues>
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC351" id="192">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC351" id="193">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC351" id="194">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC351" id="195">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC351" id="196">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC351" id="197">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC351" id="198">
+        <attvalues>
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC351" id="199">
+        <attvalues>
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC351" id="200">
+        <attvalues>
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC351" id="201">
+        <attvalues>
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC359" id="202">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC449" id="203">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL377" target="CPSC449" id="204">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH253" target="CPSC319" id="205">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH253" target="CPSC319" id="206">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH253" target="CPSC331" id="207">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH253" target="CPSC331" id="208">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH311" target="CPSC413" id="209">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH311" target="CPSC535" id="210">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC413" target="CPSC511" id="211">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC413" target="CPSC517" id="212">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC413" target="CPSC518" id="213">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC413" target="CPSC518" id="214">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC413" target="CPSC519" id="215">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC413" target="CPSC519" id="216">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC413" target="CPSC522" id="217">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC413" target="CPSC561" id="218">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH213" target="MATH249" id="219">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH213" target="MATH249" id="220">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH213" target="MATH249" id="221">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="MATH213" target="MATH249" id="222">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="MATH213" target="MATH265" id="223">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH213" target="MATH265" id="224">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH213" target="MATH265" id="225">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="MATH213" target="MATH265" id="226">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="MATH213" target="MATH275" id="227">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH213" target="MATH275" id="228">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH213" target="MATH275" id="229">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="MATH213" target="MATH275" id="230">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="MATH213" target="MATH275" id="231">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="MATH213" target="MATH253" id="232">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH213" target="MATH253" id="233">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH213" target="MATH267" id="234">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH213" target="MATH267" id="235">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH213" target="MATH277" id="236">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH213" target="MATH277" id="237">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH213" target="MATH283" id="238">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH213" target="MATH283" id="239">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH213" target="AMAT219" id="240">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH213" target="AMAT219" id="241">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH213" target="CPSC413" id="242">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH213" target="MATH311" id="243">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH213" target="MATH271" id="244">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH213" target="MATH313" id="245">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="AMAT219" target="CPSC319" id="246">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="AMAT219" target="CPSC319" id="247">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="AMAT219" target="CPSC331" id="248">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="AMAT219" target="CPSC331" id="249">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC313" target="CPSC331" id="250">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC313" target="CPSC331" id="251">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC313" target="CPSC331" id="252">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC313" target="CPSC331" id="253">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC313" target="CPSC331" id="254">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC313" target="CPSC331" id="255">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC313" target="CPSC433" id="256">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC313" target="CPSC433" id="257">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC313" target="CPSC513" id="258">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC313" target="CPSC349" id="259">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC313" target="CPSC449" id="260">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC313" target="CPSC457" id="261">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC313" target="CPSC457" id="262">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="DATA211" target="CPSC219" id="263">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="DATA211" target="CPSC565" id="264">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="DATA211" target="DATA311" id="265">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC457" target="CPSC525" id="266">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC457" target="CPSC525" id="267">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC457" target="CPSC525" id="268">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC457" target="CPSC527" id="269">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC457" target="CPSC528" id="270">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC457" target="CPSC531" id="271">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC457" target="CPSC531" id="272">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC457" target="CPSC531" id="273">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC457" target="CPSC531" id="274">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC457" target="CPSC531" id="275">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC457" target="CPSC550" id="276">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC457" target="CPSC559" id="277">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC457" target="CPSC567" id="278">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC481" target="CPSC581" id="279">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC481" target="CPSC584" id="280">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC481" target="CPSC781" id="281">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH315" target="CPSC331" id="282">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH315" target="CPSC351" id="283">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH315" target="CPSC351" id="284">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH315" target="STAT321" id="285">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH315" target="STAT321" id="286">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH315" target="STAT321" id="287">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="MATH315" target="STAT321" id="288">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="MATH315" target="CPSC530" id="289">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH315" target="CPSC530" id="290">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH315" target="CPSC530" id="291">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="MATH315" target="CPSC530" id="292">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="MATH315" target="CPSC530" id="293">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="MATH315" target="CPSC530" id="294">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC453" target="CPSC577" id="295">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC453" target="CPSC585" id="296">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC453" target="CPSC587" id="297">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC453" target="CPSC589" id="298">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC453" target="CPSC591" id="299">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="ENCM339" target="CPSC319" id="300">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="ENCM339" target="CPSC331" id="301">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="ENCM339" target="CPSC331" id="302">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="ENCM339" target="CPSC331" id="303">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="MATH267" target="CPSC319" id="304">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH267" target="CPSC319" id="305">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH267" target="CPSC331" id="306">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH267" target="CPSC331" id="307">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH267" target="STAT321" id="308">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH267" target="MATH376" id="309">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH273" target="PHIL279" id="310">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH273" target="PHIL279" id="311">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH273" target="PHIL279" id="312">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="MATH273" target="PHIL377" id="313">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH273" target="PHIL377" id="314">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH273" target="PHIL377" id="315">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="MATH273" target="CPSC331" id="316">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH273" target="CPSC331" id="317">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH273" target="CPSC331" id="318">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="MATH273" target="CPSC331" id="319">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="MATH273" target="ENCM335" id="320">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH273" target="ENCM339" id="321">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH273" target="ENSF337" id="322">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH273" target="CPSC457" id="323">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH273" target="CPSC351" id="324">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH273" target="CPSC351" id="325">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH273" target="STAT321" id="326">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH273" target="STAT321" id="327">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH273" target="STAT321" id="328">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="MATH273" target="STAT321" id="329">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="MATH273" target="CPSC530" id="330">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH273" target="CPSC530" id="331">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH273" target="CPSC530" id="332">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="MATH273" target="CPSC530" id="333">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="MATH273" target="CPSC530" id="334">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="MATH273" target="CPSC530" id="335">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="MATH273" target="MATH315" id="336">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="STAT205" target="MATH271" id="337">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="STAT205" target="MATH273" id="338">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="STAT205" target="MATH315" id="339">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="STAT205" target="CPSC219" id="340">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="STAT205" target="CPSC219" id="341">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="STAT205" target="CPSC219" id="342">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="STAT205" target="CPSC233" id="343">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="STAT205" target="CPSC233" id="344">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="STAT205" target="CPSC233" id="345">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="STAT205" target="CPSC235" id="346">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="STAT205" target="CPSC235" id="347">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="STAT205" target="CPSC235" id="348">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="STAT205" target="CPSC457" id="349">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC355" target="CPSC359" id="350">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC355" target="PHIL377" id="351">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC355" target="CPSC409" id="352">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC355" target="CPSC411" id="353">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC355" target="CPSC411" id="354">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC355" target="CPSC441" id="355">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC355" target="CPSC441" id="356">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC355" target="CPSC457" id="357">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC355" target="CPSC457" id="358">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC355" target="CPSC461" id="359">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC355" target="CPSC461" id="360">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH283" target="CPSC319" id="361">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH283" target="CPSC319" id="362">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH283" target="CPSC331" id="363">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH283" target="CPSC331" id="364">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="SENG480" target="CPSC481" id="365">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH313" target="CPSC413" id="366">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH313" target="CPSC535" id="367">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="SENG300" target="CPSC405" id="368">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="SENG300" target="CPSC481" id="369">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="SENG300" target="CPSC575" id="370">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC433" target="CPSC544" id="371">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC433" target="CPSC457" id="372">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC433" target="CPSC568" id="373">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH331" target="CPSC535" id="374">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC349" target="CPSC501" id="375">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC349" target="CPSC521" id="376">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC349" target="CPSC351" id="377">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="STAT321" target="CPSC351" id="378">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="STAT321" target="CPSC351" id="379">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="STAT321" target="CPSC351" id="380">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="STAT321" target="CPSC530" id="381">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="STAT321" target="CPSC530" id="382">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="STAT321" target="CPSC530" id="383">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="STAT321" target="CPSC530" id="384">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="STAT321" target="CPSC530" id="385">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="STAT321" target="CPSC530" id="386">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="STAT321" target="CPSC530" id="387">
+        <attvalues>
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="STAT321" target="CPSC530" id="388">
+        <attvalues>
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="STAT321" target="CPSC530" id="389">
+        <attvalues>
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="STAT321" target="CPSC457" id="390">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH321" target="CPSC457" id="391">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC335" id="392">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC355" id="393">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC355" id="394">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC355" id="395">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC355" id="396">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="ENCM369" id="397">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="ENCM369" id="398">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="ENCM369" id="399">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC413" id="400">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC413" id="401">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC413" id="402">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC413" id="403">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC413" id="404">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC413" id="405">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC351" id="406">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC351" id="407">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC351" id="408">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC351" id="409">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC351" id="410">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC351" id="411">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC351" id="412">
+        <attvalues>
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC418" id="413">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC418" id="414">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC418" id="415">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC418" id="416">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC449" id="417">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="PHIL377" id="418">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC453" id="419">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC453" id="420">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC453" id="421">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC453" id="422">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC453" id="423">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC453" id="424">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC453" id="425">
+        <attvalues>
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC453" id="426">
+        <attvalues>
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC453" id="427">
+        <attvalues>
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC453" id="428">
+        <attvalues>
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC471" id="429">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC491" id="430">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC491" id="431">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC491" id="432">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC491" id="433">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC491" id="434">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC491" id="435">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC331" target="CPSC583" id="436">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="DATA201" target="DATA211" id="437">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="DATA201" target="DATA211" id="438">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="DATA201" target="CPSC217" id="439">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="DATA201" target="CPSC231" id="440">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="DATA201" target="CPSC235" id="441">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="DATA201" target="ENDG233" id="442">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="DATA201" target="ENGG233" id="443">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC313" id="444">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC313" id="445">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC313" id="446">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC313" id="447">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC313" id="448">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC313" id="449">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC313" id="450">
+        <attvalues>
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC329" id="451">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC329" id="452">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC329" id="453">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC329" id="454">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC329" id="455">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC329" id="456">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC329" id="457">
+        <attvalues>
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC329" id="458">
+        <attvalues>
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC329" id="459">
+        <attvalues>
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC351" id="460">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC351" id="461">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC351" id="462">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC351" id="463">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC351" id="464">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC351" id="465">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC351" id="466">
+        <attvalues>
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC351" id="467">
+        <attvalues>
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC351" id="468">
+        <attvalues>
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC351" id="469">
+        <attvalues>
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC355" id="470">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC319" id="471">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="PHIL279" target="CPSC331" id="472">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH376" target="CPSC535" id="473">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="PHIL279" id="474">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="PHIL279" id="475">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="PHIL279" id="476">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="PHIL279" id="477">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="PHIL279" id="478">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="PHIL279" id="479">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="PHIL377" id="480">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="PHIL377" id="481">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="PHIL377" id="482">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="PHIL377" id="483">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="PHIL377" id="484">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="PHIL377" id="485">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="MATH265" id="486">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="MATH265" id="487">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="MATH265" id="488">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="MATH265" id="489">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="MATH265" id="490">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="MATH265" id="491">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="MATH265" id="492">
+        <attvalues>
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="MATH265" id="493">
+        <attvalues>
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="MATH265" id="494">
+        <attvalues>
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="MATH265" id="495">
+        <attvalues>
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="MATH265" id="496">
+        <attvalues>
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="MATH265" id="497">
+        <attvalues>
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="MATH275" id="498">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="MATH275" id="499">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="MATH275" id="500">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="MATH275" id="501">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="MATH275" id="502">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="MATH275" id="503">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="MATH275" id="504">
+        <attvalues>
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="MATH275" id="505">
+        <attvalues>
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="MATH275" id="506">
+        <attvalues>
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="MATH275" id="507">
+        <attvalues>
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="MATH275" id="508">
+        <attvalues>
+          <attvalue for="3" value="10" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="MATH275" id="509">
+        <attvalues>
+          <attvalue for="3" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="CPSC331" id="510">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="CPSC331" id="511">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="CPSC331" id="512">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="ENCM335" id="513">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="ENCM339" id="514">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC251" target="ENSF337" id="515">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC217" target="CPSC219" id="516">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC217" target="CPSC565" id="517">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC217" target="DATA311" id="518">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC449" target="CPSC501" id="519">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC449" target="CPSC521" id="520">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC449" target="CPSC521" id="521">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="AMAT307" target="CPSC535" id="522">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="CPSC251" id="523">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="CPSC251" id="524">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="CPSC251" id="525">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="CPSC251" id="526">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="CPSC251" id="527">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="CPSC251" id="528">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="CPSC251" id="529">
+        <attvalues>
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="CPSC251" id="530">
+        <attvalues>
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="CPSC251" id="531">
+        <attvalues>
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="CPSC251" id="532">
+        <attvalues>
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="MATH271" id="533">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="MATH271" id="534">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="MATH271" id="535">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="MATH271" id="536">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="MATH271" id="537">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="MATH271" id="538">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="MATH273" id="539">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="MATH273" id="540">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="MATH273" id="541">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="MATH273" id="542">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="MATH273" id="543">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="MATH273" id="544">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="CPSC319" id="545">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="MATH249" id="546">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="MATH249" id="547">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="MATH249" id="548">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="MATH249" id="549">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="CPSC355" id="550">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="MATH315" id="551">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="MATH315" id="552">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="MATH315" id="553">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC219" target="SENG300" id="554">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH353" target="CPSC535" id="555">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="MATH271" id="556">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="MATH271" id="557">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="MATH271" id="558">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="MATH271" id="559">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="MATH271" id="560">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="MATH271" id="561">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="MATH273" id="562">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="MATH273" id="563">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="MATH273" id="564">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="MATH273" id="565">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="MATH273" id="566">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="MATH273" id="567">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="CPSC319" id="568">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="MATH249" id="569">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="MATH249" id="570">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="MATH249" id="571">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="MATH249" id="572">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="CPSC251" id="573">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="CPSC251" id="574">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="CPSC251" id="575">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="CPSC251" id="576">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="CPSC251" id="577">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="CPSC251" id="578">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="CPSC251" id="579">
+        <attvalues>
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="CPSC251" id="580">
+        <attvalues>
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="CPSC251" id="581">
+        <attvalues>
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="CPSC355" id="582">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="MATH315" id="583">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="MATH315" id="584">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="MATH315" id="585">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="DATA311" id="586">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC235" target="SENG300" id="587">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="STAT213" target="MATH271" id="588">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="STAT213" target="MATH273" id="589">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="STAT213" target="MATH315" id="590">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="STAT213" target="CPSC219" id="591">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="STAT213" target="CPSC219" id="592">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="STAT213" target="CPSC219" id="593">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="STAT213" target="CPSC233" id="594">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="STAT213" target="CPSC233" id="595">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="STAT213" target="CPSC233" id="596">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="STAT213" target="CPSC235" id="597">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="STAT213" target="CPSC235" id="598">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="STAT213" target="CPSC235" id="599">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="STAT213" target="CPSC457" id="600">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC567" target="CPSC767" id="601">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH277" target="CPSC319" id="602">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH277" target="CPSC319" id="603">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH277" target="CPSC331" id="604">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH277" target="CPSC331" id="605">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="MATH277" target="STAT321" id="606">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="MATH277" target="MATH376" id="607">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC471" target="CPSC571" id="608">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC471" target="CPSC572" id="609">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="ENSF337" target="CPSC319" id="610">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="ENSF337" target="CPSC331" id="611">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="ENSF337" target="CPSC331" id="612">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="ENSF337" target="CPSC331" id="613">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="ENSF337" target="ENEL353" id="614">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="CPSC335" id="615">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="CPSC355" id="616">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="CPSC355" id="617">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="CPSC355" id="618">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="CPSC355" id="619">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="ENCM369" id="620">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="ENCM369" id="621">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="ENCM369" id="622">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="CPSC449" id="623">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="PHIL377" id="624">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="CPSC453" id="625">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="CPSC453" id="626">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="CPSC453" id="627">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="CPSC453" id="628">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="CPSC453" id="629">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="CPSC453" id="630">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="CPSC453" id="631">
+        <attvalues>
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="CPSC453" id="632">
+        <attvalues>
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="CPSC453" id="633">
+        <attvalues>
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="CPSC453" id="634">
+        <attvalues>
+          <attvalue for="3" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="CPSC471" id="635">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="CPSC491" id="636">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="CPSC491" id="637">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="CPSC491" id="638">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="CPSC491" id="639">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="CPSC491" id="640">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="CPSC491" id="641">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC319" target="CPSC583" id="642">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="ENGG233" target="DATA311" id="643">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="ENGG233" target="ENCM335" id="644">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="ENGG233" target="ENSF337" id="645">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="MATH271" id="646">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="MATH271" id="647">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="MATH271" id="648">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="MATH271" id="649">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="MATH271" id="650">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="MATH271" id="651">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="MATH271" id="652">
+        <attvalues>
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="MATH273" id="653">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="MATH273" id="654">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="MATH273" id="655">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="MATH273" id="656">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="MATH273" id="657">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="MATH273" id="658">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="CPSC319" id="659">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="MATH249" id="660">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="MATH249" id="661">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="MATH249" id="662">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="MATH249" id="663">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="CPSC251" id="664">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="CPSC251" id="665">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="CPSC251" id="666">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="CPSC251" id="667">
+        <attvalues>
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="CPSC251" id="668">
+        <attvalues>
+          <attvalue for="3" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="CPSC251" id="669">
+        <attvalues>
+          <attvalue for="3" value="5" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="CPSC251" id="670">
+        <attvalues>
+          <attvalue for="3" value="6" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="CPSC251" id="671">
+        <attvalues>
+          <attvalue for="3" value="7" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="CPSC251" id="672">
+        <attvalues>
+          <attvalue for="3" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="CPSC355" id="673">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="MATH315" id="674">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="MATH315" id="675">
+        <attvalues>
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="MATH315" id="676">
+        <attvalues>
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="CPSC233" target="SENG300" id="677">
+        <attvalues>
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
